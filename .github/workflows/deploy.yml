@@ -30,6 +30,8 @@ jobs:
       - run: pnpm run build:static
         env:
           NODE_ENV: production
+          # /pupsandvines/ while on the free github.io link; change to / once pupsandvines.com points here.
+          BASE_PATH: /pupsandvines/
       - uses: actions/upload-pages-artifact@v3
         with:
           path: artifacts/napa-directory/dist/public

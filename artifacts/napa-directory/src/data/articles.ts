@@ -18,7 +18,7 @@ export const articles: Article[] = [
     date: "May 29, 2026",
     category: "Tips & Guides",
     readTime: "5 min read",
-    image: "/visit-napa-valley-preview.png",
+    image: import.meta.env.BASE_URL + "visit-napa-valley-preview.png",
     body: `
 <p>When we were building Pups & Vines, one of the resources we kept coming back to was the official <a href="https://www.visitnapavalley.com/things-to-do/trip-ideas/pet-friendly/" target="_blank" rel="noopener noreferrer">Visit Napa Valley pet-friendly guide</a>. It's genuinely one of the most helpful and well-organized overviews of the region for dog owners — and we think every dog-loving wine traveler should have it bookmarked. Here's a breakdown of what makes it so useful.</p>
 
@@ -47,7 +47,7 @@ export const articles: Article[] = [
     date: "May 7, 2026",
     category: "Gear & Accessories",
     readTime: "4 min read",
-    image: "/hero-dog.webp",
+    image: import.meta.env.BASE_URL + "hero-dog.webp",
     body: `
 <p>Fair warning: this isn't a sponsored post, we have zero affiliation with this company, and nobody asked us to write this. We just genuinely think the <a href="https://www.halocollar.com" target="_blank" rel="noopener noreferrer"><strong>Halo Collar</strong></a> is one of the more fascinating products in the dog world right now, and we wanted to talk about it. So here we are.</p>
 

@@ -4,7 +4,15 @@
 import data from "./wineries-data.json";
 
 type Row = (typeof data)[number];
-const wineries = data as Row[];
+// Prefix local image paths (e.g. /winery-images/x.jpg) with the site's base
+// path so the site also works from a sub-folder like user.github.io/repo/.
+const BASE = ((import.meta as any).env?.BASE_URL ?? "/").replace(/\/$/, "");
+const fix = (u: string | null) => (u && u.startsWith("/") ? BASE + u : u);
+const wineries = (data as Row[]).map((w) => ({
+  ...w,
+  imageUrl: fix(w.imageUrl),
+  galleryImages: (w.galleryImages ?? []).map((g) => fix(g) as string),
+}));
 
 function byRankThenName(a: Row, b: Row) {
   const ra = a.featuredRank ?? Number.POSITIVE_INFINITY;

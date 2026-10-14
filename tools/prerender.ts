@@ -16,7 +16,7 @@ const dist = path.resolve(process.cwd(), "artifacts/napa-directory/dist/public")
 const template = fs.readFileSync(path.join(dist, "index.html"), "utf8");
 
 function write(route: string, html: string) {
-  const file = route === "/" ? path.join(dist, "index.html") : path.join(dist, route, "index.html");
+  const file = route === "/" ? path.join(dist, "index.html") : path.join(dist, `${route}.html`);
   fs.mkdirSync(path.dirname(file), { recursive: true });
   fs.writeFileSync(file, html);
 }

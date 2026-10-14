@@ -102,7 +102,7 @@ export default function MapPage() {
             ${winery.rating ? `<div style="font-size:12px;color:#78350f;margin-bottom:6px;">${stars} ${winery.rating} (${winery.reviewCount?.toLocaleString() ?? 0} reviews)</div>` : ""}
             <div style="font-size:11px;color:#78716c;margin-bottom:10px;">${winery.address}</div>
             ${winery.hours ? `<div style="font-size:11px;color:#57534e;margin-bottom:10px;">${winery.hours}</div>` : ""}
-            <a href="/winery/${winery.id}" style="display:inline-block;background:#1c1917;color:white;font-size:12px;font-weight:700;padding:7px 14px;border-radius:8px;text-decoration:none;">View Details &rarr;</a>
+            <a href="${import.meta.env.BASE_URL}winery/${winery.id}" style="display:inline-block;background:#1c1917;color:white;font-size:12px;font-weight:700;padding:7px 14px;border-radius:8px;text-decoration:none;">View Details &rarr;</a>
           </div>
         `);
 
