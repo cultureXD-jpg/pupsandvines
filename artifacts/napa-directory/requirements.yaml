@@ -1,0 +1,20 @@
+packages:
+  "framer-motion": "For elegant page transitions and scroll-triggered animations"
+  "lucide-react": "For beautiful consistent iconography"
+  "clsx": "Utility for conditionally joining classNames"
+  "tailwind-merge": "Utility for merging tailwind classes without conflicts"
+
+images:
+  - path: "artifacts/napa-directory/public/images/hero-vineyard.png"
+    description: "Elegant sunlit vineyard landscape in Napa Valley, rolling hills with neat rows of grapevines, golden hour lighting, warm earthy tones, deep greens, high quality photography style"
+    aspect_ratio: "16:9"
+  - path: "artifacts/napa-directory/public/images/logo-icon.png"
+    description: "Minimalist elegant line art icon combining a dog paw print and a wine glass, deep burgundy color on transparent background"
+    aspect_ratio: "1:1"
+  - path: "artifacts/napa-directory/public/images/winery-hero.png"
+    description: "Close up of wine glasses on a rustic wooden barrel table overlooking a beautiful vineyard, elegant and inviting, warm lighting, blurred background"
+    aspect_ratio: "16:9"
+
+notes:
+  - We assume @workspace/api-client-react provides useListWineries, useGetWinery, useListRegions.
+  - Using wouter for simple routing.

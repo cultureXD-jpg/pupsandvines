@@ -1,0 +1,14 @@
+{
+  "exportedAt": "2026-10-14T16:02:42.521Z",
+  "databaseEnvironment": "development",
+  "source": "Replit PostgreSQL",
+  "tables": [
+    {
+      "schema": "public",
+      "table": "wineries",
+      "file": "wineries.json",
+      "rows": 31
+    }
+  ],
+  "totalRows": 31
+}

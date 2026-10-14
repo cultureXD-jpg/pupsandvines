@@ -1,0 +1,182 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "byVpKVNZnHEIKSRHOvSyZ"
+uri = "file://attached_assets/image_search/opt_1.jpg"
+type = "image"
+title = "1 — Howell Mountain Vineyard Sunset"
+
+[[outputs]]
+id = "UQ-V_qUouKAdHuk5eHdqw"
+uri = "file://attached_assets/image_search/opt_2.jpg"
+type = "image"
+title = "2 — Sterling Vineyards on Hilltop"
+
+[[outputs]]
+id = "RDEzZVbWbAAaBPLWFB8ZY"
+uri = "file://attached_assets/image_search/opt_3.jpg"
+type = "image"
+title = "3 — Palmaz Vineyards Hillside"
+
+[[outputs]]
+id = "dPonp2QMb6dRkEgbPYRP3"
+uri = "file://attached_assets/image_search/opt_4.jpg"
+type = "image"
+title = "4 — Castello di Amorosa Castle"
+
+[[outputs]]
+id = "jKuMVJyfFIQYVMR8Sd4uc"
+uri = "file://attached_assets/image_search/opt_5.jpg"
+type = "image"
+title = "5 — Dog at Shafer Vineyards"
+
+[[outputs]]
+id = "GISlDtUAdGcIOpe7a9kMJ"
+uri = "file://attached_assets/image_search/opt_6.jpg"
+type = "image"
+title = "6 — Dog at Pet-Friendly Vineyard"
+
+[[outputs]]
+id = "Ru1Ge2KxYrP34sKHa_I6v"
+uri = "file://attached_assets/image_search/opt_7.jpg"
+type = "image"
+title = "7 — Outdoor Wine Tasting with Dogs"
+
+[[outputs]]
+id = "4Rx7nB5u8xohyh7CNe4yw"
+uri = "file://attached_assets/image_search/opt_8.jpg"
+type = "image"
+title = "8 — German Shepherd in Vineyard"
+
+[[outputs]]
+id = "0lmuUj1LXV-ghGuqhtQHO"
+uri = "file://attached_assets/image_search/curated/pick_01.jpg"
+type = "image"
+title = "1 — Opus One Winery (Iconic Napa entrance)"
+
+[[outputs]]
+id = "4Nv5YLVP0NmquxWbpBXA7"
+uri = "file://attached_assets/image_search/curated/pick_02.jpg"
+type = "image"
+title = "2 — Quintessa Estate (vineyard pavilions)"
+
+[[outputs]]
+id = "NhlDPt7Lbu6RRaZ5QXa1f"
+uri = "file://attached_assets/image_search/curated/pick_03.jpg"
+type = "image"
+title = "3 — Law Estate Wines (architectural)"
+
+[[outputs]]
+id = "k_8YtgXJFcgqfo8dD_LPu"
+uri = "file://attached_assets/image_search/curated/pick_04.jpg"
+type = "image"
+title = "4 — Barnett Vineyards (panoramic Napa view)"
+
+[[outputs]]
+id = "cGujqvgdtT_U2nOvDNF3e"
+uri = "file://attached_assets/image_search/curated/pick_05.jpg"
+type = "image"
+title = "5 — Howell Mountain (vineyard sunset)"
+
+[[outputs]]
+id = "IzQbEljwE9MWCJeNzT0VF"
+uri = "file://attached_assets/image_search/curated/pick_06.jpg"
+type = "image"
+title = "6 — Sterling Vineyards (hilltop winery)"
+
+[[outputs]]
+id = "mqIDHgDummO3ucjPXhSsV"
+uri = "file://attached_assets/image_search/curated/pick_07.jpg"
+type = "image"
+title = "7 — Vineyard rows, golden light"
+
+[[outputs]]
+id = "usAUWESL76gmL0FxlEC2y"
+uri = "file://attached_assets/image_search/curated/pick_08.jpg"
+type = "image"
+title = "8 — Dog at ONEHOPE Winery"
+
+[[outputs]]
+id = "kFh326N82XCtllnDD6Dyk"
+uri = "file://attached_assets/image_search/curated/pick_09.jpg"
+type = "image"
+title = "9 — Walking dog through St. Francis Vineyard"
+
+[[outputs]]
+id = "Bt9uCBxUKFOSJNuJbzv2D"
+uri = "file://attached_assets/image_search/curated/pick_10.jpg"
+type = "image"
+title = "10 — Dog at Shafer Vineyards"
+
+[[outputs]]
+id = "3x417FyF5d_UFOjXOHql0"
+uri = "file://attached_assets/image_search/curated/pick_11.jpg"
+type = "image"
+title = "11 — Luxury estate (Architectural Digest)"
+
+[[outputs]]
+id = "aWfHdwg5n0R1xT8AawUlM"
+uri = "file://attached_assets/image_search/ehlers-stone-barn.jpg"
+type = "image"
+title = "Option A — Stone Barn (TripAdvisor)"
+
+[[outputs]]
+id = "EPlnaBkR6W0cDUkwdh8pd"
+uri = "file://attached_assets/image_search/ehlers-stone-historic.jpg"
+type = "image"
+title = "Option B — Historic Stone Winery"
+
+[[outputs]]
+id = "_4jYAB2qizg36_iybT6fT"
+uri = "file://attached_assets/image_search/ehlers-vineyard-entrance.jpg"
+type = "image"
+title = "Option C — Vineyard Entrance"
+
+[[outputs]]
+id = "lCj3mYEJO1d1np3sbdrmG"
+uri = "file://attached_assets/image_search/ehlers/01-stone-exterior.jpg"
+type = "image"
+title = "A — Historic Stone Exterior"
+
+[[outputs]]
+id = "tS7-84an50XSWFTxf_FJ3"
+uri = "file://attached_assets/image_search/ehlers/02-winery-vineyard.jpg"
+type = "image"
+title = "B — Winery & Vineyard"
+
+[[outputs]]
+id = "39MxbAqq9yrVYievo7brG"
+uri = "file://attached_assets/image_search/ehlers/03-vineyard-entrance.jpg"
+type = "image"
+title = "C — Vineyard Entrance"
+
+[[outputs]]
+id = "gGE4Tq0EN9Zdr6sS8jpcd"
+uri = "file://attached_assets/image_search/ehlers/04-barrel-room.jpg"
+type = "image"
+title = "D — Historic Barrel Room"
+
+[[outputs]]
+id = "zC-eW-r7KaFsrB0ubUd2C"
+uri = "file://attached_assets/image_search/ehlers/05-tasting-room-1886.jpg"
+type = "image"
+title = "E — Tasting Room (built 1886)"
+
+[[outputs]]
+id = "KFAEq8PF97239_wNiZJQ8"
+uri = "file://attached_assets/image_search/ehlers/06-stone-building.jpg"
+type = "image"
+title = "F — Stone Building"
+
+[[outputs]]
+id = "qSJHm48uCEWMzydEtB-ld"
+uri = "file://attached_assets/image_search/ehlers/07-tasting-room.jpg"
+type = "image"
+title = "G — Tasting Room Interior"
+
+[[outputs]]
+id = "7rBBnp6pQJGcF-d0mRkGp"
+uri = "file://attached_assets/image_search/ehlers/08-winemag.jpg"
+type = "image"
+title = "H — Wine Enthusiast Feature"

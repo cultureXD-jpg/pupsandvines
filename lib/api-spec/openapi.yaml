@@ -1,0 +1,192 @@
+openapi: 3.1.0
+info:
+  title: Api
+  version: 0.1.0
+  description: Napa Paws & Vines directory API
+servers:
+  - url: /api
+    description: Base API path
+tags:
+  - name: health
+    description: Health operations
+  - name: wineries
+    description: Winery directory operations
+paths:
+  /healthz:
+    get:
+      operationId: healthCheck
+      tags: [health]
+      summary: Health check
+      description: Returns server health status
+      responses:
+        "200":
+          description: Healthy
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/HealthStatus"
+  /wineries:
+    get:
+      operationId: listWineries
+      tags: [wineries]
+      summary: List wineries
+      description: Returns a filtered list of wineries
+      parameters:
+        - name: dogFriendly
+          in: query
+          schema:
+            type: boolean
+        - name: sustainable
+          in: query
+          schema:
+            type: boolean
+        - name: familyFriendly
+          in: query
+          schema:
+            type: boolean
+        - name: region
+          in: query
+          schema:
+            type: string
+        - name: search
+          in: query
+          schema:
+            type: string
+        - name: featured
+          in: query
+          schema:
+            type: boolean
+      responses:
+        "200":
+          description: List of wineries
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#/components/schemas/Winery"
+  /wineries/{id}:
+    get:
+      operationId: getWinery
+      tags: [wineries]
+      summary: Get a winery by ID
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: integer
+      responses:
+        "200":
+          description: Winery details
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Winery"
+        "404":
+          description: Winery not found
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+  /regions:
+    get:
+      operationId: listRegions
+      tags: [wineries]
+      summary: List available regions
+      responses:
+        "200":
+          description: List of regions
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: string
+components:
+  schemas:
+    HealthStatus:
+      type: object
+      properties:
+        status:
+          type: string
+      required:
+        - status
+    ErrorResponse:
+      type: object
+      properties:
+        error:
+          type: string
+      required:
+        - error
+    Winery:
+      type: object
+      properties:
+        id:
+          type: integer
+        name:
+          type: string
+        slug:
+          type: string
+        description:
+          type: string
+        address:
+          type: string
+        region:
+          type: string
+        phone:
+          type: string
+        website:
+          type: string
+        imageUrl:
+          type: string
+        latitude:
+          type: number
+        longitude:
+          type: number
+        dogFriendly:
+          type: boolean
+        sustainable:
+          type: boolean
+        familyFriendly:
+          type: boolean
+        napaGreenCertified:
+          type: boolean
+        organicCertified:
+          type: boolean
+        amenities:
+          type: array
+          items:
+            type: string
+        tastingFee:
+          type: string
+        hours:
+          type: string
+        dogPolicy:
+          type: string
+        featured:
+          type: boolean
+        listingTier:
+          type: string
+          enum: [free, premium, featured]
+        rating:
+          type: number
+        reviewCount:
+          type: integer
+        createdAt:
+          type: string
+      required:
+        - id
+        - name
+        - slug
+        - description
+        - address
+        - region
+        - dogFriendly
+        - sustainable
+        - familyFriendly
+        - napaGreenCertified
+        - organicCertified
+        - amenities
+        - featured
+        - listingTier

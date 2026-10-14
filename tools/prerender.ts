@@ -1,0 +1,43 @@
+// After `vite build`, writes one HTML file per page with the right
+// title/description/SEO tags baked in, so static hosts (GitHub Pages,
+// Cloudflare Pages) serve every URL directly and Google sees real metadata.
+import fs from "node:fs";
+import path from "node:path";
+import {
+  ARTICLE_META,
+  getSeoForBlogPost,
+  getSeoForStaticRoute,
+  getSeoForWinery,
+  injectSeoIntoHtml,
+} from "../artifacts/api-server/src/seo";
+import wineries from "../lib/api-client-react/src/wineries-data.json";
+
+const dist = path.resolve(process.cwd(), "artifacts/napa-directory/dist/public");
+const template = fs.readFileSync(path.join(dist, "index.html"), "utf8");
+
+function write(route: string, html: string) {
+  const file = route === "/" ? path.join(dist, "index.html") : path.join(dist, route, "index.html");
+  fs.mkdirSync(path.dirname(file), { recursive: true });
+  fs.writeFileSync(file, html);
+}
+
+let count = 0;
+for (const route of ["/", "/directory", "/about", "/terms", "/privacy", "/map", "/shop", "/blog"]) {
+  const seo = getSeoForStaticRoute(route);
+  write(route, seo ? injectSeoIntoHtml(template, seo) : template);
+  count++;
+}
+for (const a of ARTICLE_META) {
+  const seo = getSeoForBlogPost(a.slug);
+  if (seo) { write(`/blog/${a.slug}`, injectSeoIntoHtml(template, seo)); count++; }
+}
+for (const w of wineries) {
+  const seo = getSeoForWinery(w);
+  write(`/winery/${w.id}`, injectSeoIntoHtml(template, seo));
+  count++;
+}
+// Unknown URLs: hosts serve 404.html; the app shows its own "not found" page.
+fs.writeFileSync(path.join(dist, "404.html"), template);
+// Custom domain for GitHub Pages.
+fs.writeFileSync(path.join(dist, "CNAME"), "pupsandvines.com\n");
+console.log(`Prerendered ${count} pages`);

@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Lato:wght@300;400;700&display=swap');
+@import "tailwindcss";
+@import "tw-animate-css";
+@plugin "@tailwindcss/typography";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --color-background: hsl(var(--background));
+  --color-foreground: hsl(var(--foreground));
+  --color-border: hsl(var(--border));
+  --color-input: hsl(var(--input));
+  --color-ring: hsl(var(--ring));
+
+  --color-card: hsl(var(--card));
+  --color-card-foreground: hsl(var(--card-foreground));
+  --color-card-border: hsl(var(--card-border));
+
+  --color-popover: hsl(var(--popover));
+  --color-popover-foreground: hsl(var(--popover-foreground));
+  --color-popover-border: hsl(var(--popover-border));
+
+  --color-primary: hsl(var(--primary));
+  --color-primary-foreground: hsl(var(--primary-foreground));
+
+  --color-secondary: hsl(var(--secondary));
+  --color-secondary-foreground: hsl(var(--secondary-foreground));
+
+  --color-muted: hsl(var(--muted));
+  --color-muted-foreground: hsl(var(--muted-foreground));
+
+  --color-accent: hsl(var(--accent));
+  --color-accent-foreground: hsl(var(--accent-foreground));
+
+  --color-destructive: hsl(var(--destructive));
+  --color-destructive-foreground: hsl(var(--destructive-foreground));
+
+  --font-sans: 'Lato', sans-serif;
+  --font-display: 'Cormorant Garamond', serif;
+
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+}
+
+:root {
+  /* Warm Ivory Background */
+  --background: 40 33% 98%;
+  /* Deep Charcoal/Brown Foreground */
+  --foreground: 24 10% 15%;
+  
+  /* Warm Tan borders */
+  --border: 35 20% 85%;
+  --input: 35 20% 85%;
+  --ring: 146 38% 30%;
+
+  /* White/Cream Cards */
+  --card: 0 0% 100%;
+  --card-foreground: 24 10% 15%;
+  --card-border: 35 20% 90%;
+
+  --popover: 0 0% 100%;
+  --popover-foreground: 24 10% 15%;
+  --popover-border: 35 20% 85%;
+
+  /* Deep Forest Green */
+  --primary: 146 38% 30%;
+  --primary-foreground: 40 33% 98%;
+
+  /* Warm Sand/Tan */
+  --secondary: 35 25% 90%;
+  --secondary-foreground: 24 10% 15%;
+
+  /* Burgundy / Wine Accent */
+  --accent: 345 40% 35%;
+  --accent-foreground: 40 33% 98%;
+
+  /* Soft Muted */
+  --muted: 40 20% 94%;
+  --muted-foreground: 24 10% 40%;
+
+  --destructive: 0 84% 60%;
+  --destructive-foreground: 210 40% 98%;
+
+  --radius: 0.75rem; 
+}
+
+.dark {
+  /* Dark earthy tones */
+  --background: 24 10% 10%;
+  --foreground: 40 33% 95%;
+  
+  --border: 24 10% 20%;
+  --input: 24 10% 20%;
+  --ring: 146 38% 40%;
+
+  --card: 24 10% 12%;
+  --card-foreground: 40 33% 95%;
+  --card-border: 24 10% 18%;
+
+  --popover: 24 10% 12%;
+  --popover-foreground: 40 33% 95%;
+  --popover-border: 24 10% 18%;
+
+  --primary: 146 38% 40%;
+  --primary-foreground: 24 10% 10%;
+
+  --secondary: 24 10% 18%;
+  --secondary-foreground: 40 33% 95%;
+
+  --accent: 345 40% 45%;
+  --accent-foreground: 40 33% 95%;
+
+  --muted: 24 10% 15%;
+  --muted-foreground: 40 20% 70%;
+}
+
+@layer base {
+  body {
+    @apply font-sans antialiased bg-background text-foreground selection:bg-primary/20 selection:text-primary;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display tracking-tight text-foreground;
+  }
+}
+
+/* Custom utilities for beautiful gradients and effects */
+@layer utilities {
+  .bg-wine-gradient {
+    background: linear-gradient(135deg, hsl(var(--primary)) 0%, hsl(var(--accent)) 100%);
+  }
+  
+  .text-wine-gradient {
+    background: linear-gradient(135deg, hsl(var(--primary)) 0%, hsl(var(--accent)) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .glass-panel {
+    @apply bg-background/80 backdrop-blur-md border border-border/50 shadow-xl;
+  }
+}

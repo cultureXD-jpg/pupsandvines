@@ -1,0 +1,30 @@
+modules = ["nodejs-24", "postgresql-16"]
+
+[[artifacts]]
+id = "artifacts/api-server"
+
+[[artifacts]]
+id = "artifacts/mockup-sandbox"
+
+[deployment]
+router = "application"
+deploymentTarget = "autoscale"
+run = ["sh", "-c", "Add a run command to start your api-server application. Based on your build output, you likely need to run the built server file.  Alternatively, if you have a start script in your package.json, configure the run command to use it.  Navigate to the Deployments pane, go to the Configuration tab, and add a Run command that starts your server and exposes a port for Autoscale to work properly."]
+
+[deployment.postBuild]
+args = ["pnpm", "store", "prune"]
+env = { "CI" = "true" }
+
+[workflows]
+runButton = "Project"
+
+[agent]
+stack = "PNPM_WORKSPACE"
+expertMode = true
+
+[postMerge]
+path = "scripts/post-merge.sh"
+timeoutMs = 20000
+
+[nix]
+channel = "stable-25_05"

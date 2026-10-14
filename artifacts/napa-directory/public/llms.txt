@@ -1,0 +1,35 @@
+# Pups & Vines
+
+Pups & Vines (pupsandvines.com) is a curated directory of dog-friendly wineries in Napa Valley and Sonoma County, paired with editorial guides for dog owners who want to explore wine country with their pets.
+
+## Site sections
+
+- Homepage: https://pupsandvines.com/
+- Winery directory (all dog-friendly listings): https://pupsandvines.com/directory
+- Interactive map of dog-friendly wineries: https://pupsandvines.com/map
+- Blog (tips, guides, gear reviews): https://pupsandvines.com/blog
+- About: https://pupsandvines.com/about
+
+## Priority blog articles
+
+- https://pupsandvines.com/blog/visit-napa-valley-pet-friendly-guide
+- https://pupsandvines.com/blog/best-dog-friendly-wineries-napa-valley
+- https://pupsandvines.com/blog/what-to-know-before-bringing-your-dog-wine-tasting
+- https://pupsandvines.com/blog/dog-etiquette-at-wineries
+- https://pupsandvines.com/blog/best-time-to-visit-wine-country-with-your-dog
+- https://pupsandvines.com/blog/dog-friendly-wineries-sonoma-county
+- https://pupsandvines.com/blog/how-to-plan-a-dog-friendly-weekend-wine-country
+- https://pupsandvines.com/blog/what-to-pack-winery-day-with-dog
+- https://pupsandvines.com/blog/off-leash-winery-experiences-wine-country
+- https://pupsandvines.com/blog/winery-dogs-napa-sonoma
+- https://pupsandvines.com/blog/halo-collar-wine-country-dog-safety
+
+## Representative winery profiles
+
+- https://pupsandvines.com/winery/32
+- https://pupsandvines.com/winery/33
+- https://pupsandvines.com/winery/34
+
+## Full sitemap
+
+https://pupsandvines.com/sitemap.xml
