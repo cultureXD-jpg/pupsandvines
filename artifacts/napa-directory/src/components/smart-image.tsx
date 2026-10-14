@@ -31,8 +31,8 @@ export function SmartImage({
     if (!box || !natural) return;
     const frame = box.clientWidth / Math.max(box.clientHeight, 1);
     const off = natural / frame;
-    // Within ~35% of the frame shape: cropping loses little, so fill the frame.
-    setMode(off > 0.72 && off < 1.45 ? "cover" : "fit");
+    // Close to the frame shape: cropping loses little, so fill the frame.
+    setMode(off > 0.6 && off < 1.8 ? "cover" : "fit");
   }, [natural]);
 
   useEffect(() => {
