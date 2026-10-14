@@ -6,6 +6,7 @@ import { useFavorites } from "@/hooks/use-favorites";
 import { useState, useRef, useEffect, useCallback } from "react";
 import { GoogleAd } from "@/components/google-ad";
 import { PageMeta } from "@/components/page-meta";
+import { SmartImage } from "@/components/smart-image";
 
 function PhotoLightbox({ images, startIndex, onClose }: { images: string[]; startIndex: number; onClose: () => void }) {
   const [idx, setIdx] = useState(startIndex);
@@ -67,7 +68,12 @@ function PhotoLightbox({ images, startIndex, onClose }: { images: string[]; star
   );
 }
 
-function InlineSlideshow({ images, name }: { images: string[]; name: string }) {
+function InlineSlideshow({ images: allImages, name }: { images: string[]; name: string }) {
+  const [broken, setBroken] = useState<string[]>([]);
+  const images = allImages.filter((src) => !broken.includes(src));
+  const markBroken = useCallback((src: string) => {
+    setBroken((b) => (b.includes(src) ? b : [...b, src]));
+  }, []);
   const [current, setCurrent] = useState(0);
   const [lightboxIdx, setLightboxIdx] = useState<number | null>(null);
   const touchStartX = useRef<number | null>(null);
@@ -96,20 +102,19 @@ function InlineSlideshow({ images, name }: { images: string[]; name: string }) {
       )}
 
       <div
-        className="group relative w-full rounded-2xl overflow-hidden bg-gray-100"
-        style={{ height: 340 }}
+        className="group relative w-full aspect-[4/3] sm:aspect-[16/9] max-h-[480px] rounded-2xl overflow-hidden bg-gray-100"
         onTouchStart={handleTouchStart}
         onTouchEnd={handleTouchEnd}
       >
         {/* Slides */}
         {images.map((src, i) => (
-          <img
+          <SmartImage
             key={src}
             src={src}
             alt={i === 0 ? name : `${name} — photo ${i + 1}`}
-            className={`absolute inset-0 w-full h-full object-cover object-center transition-opacity duration-500 cursor-zoom-in ${i === current ? "opacity-100" : "opacity-0 pointer-events-none"}`}
-            onClick={() => setLightboxIdx(current)}
-            onError={(e) => { (e.target as HTMLImageElement).style.display = "none"; }}
+            onBroken={markBroken}
+            className={`transition-opacity duration-500 cursor-zoom-in ${i === (current % images.length) ? "opacity-100" : "opacity-0 pointer-events-none"}`}
+            onClick={() => setLightboxIdx(current % images.length)}
           />
         ))}
 

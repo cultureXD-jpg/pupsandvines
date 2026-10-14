@@ -6,6 +6,7 @@ import { useFavorites } from "../hooks/use-favorites";
 import { clsx, type ClassValue } from "clsx";
 import { twMerge } from "tailwind-merge";
 import { useState, useCallback, useRef } from "react";
+import { SmartImage } from "./smart-image";
 
 function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs));
@@ -52,7 +53,12 @@ interface PhotoGalleryProps {
   name: string;
 }
 
-function PhotoGallery({ images, name }: PhotoGalleryProps) {
+function PhotoGallery({ images: allImages, name }: PhotoGalleryProps) {
+  const [broken, setBroken] = useState<string[]>([]);
+  const images = allImages.filter((src) => !broken.includes(src));
+  const markBroken = useCallback((src: string) => {
+    setBroken((b) => (b.includes(src) ? b : [...b, src]));
+  }, []);
   const [current, setCurrent] = useState(0);
   const [hovered, setHovered] = useState(false);
   const touchStartX = useRef<number | null>(null);
@@ -88,15 +94,15 @@ function PhotoGallery({ images, name }: PhotoGalleryProps) {
     >
       {/* Images — preload next/prev */}
       {images.map((src, i) => (
-        <img
+        <SmartImage
           key={src}
           src={src}
           alt={i === 0 ? name : `${name} — photo ${i + 1}`}
+          onBroken={markBroken}
           className={cn(
-            "absolute inset-0 w-full h-full object-cover object-center transition-opacity duration-500",
-            i === current ? "opacity-100" : "opacity-0 pointer-events-none"
+            "transition-opacity duration-500",
+            i === (current % images.length) ? "opacity-100" : "opacity-0 pointer-events-none"
           )}
-          onError={(e) => { (e.target as HTMLImageElement).style.display = "none"; }}
         />
       ))}
 
@@ -124,7 +130,7 @@ function PhotoGallery({ images, name }: PhotoGalleryProps) {
       {images.length > 1 && (
         <div className="absolute bottom-3 right-3 z-20 flex items-center gap-1 px-2 py-0.5 rounded-full bg-black/50 text-white text-xs font-medium backdrop-blur-sm">
           <Camera className="w-3 h-3" />
-          {current + 1} / {images.length}
+          {(current % images.length) + 1} / {images.length}
         </div>
       )}
     </div>
