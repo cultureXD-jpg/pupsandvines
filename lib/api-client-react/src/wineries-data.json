@@ -169,9 +169,7 @@
   "galleryImages": [
    "https://bestwineries.com/wp-content/uploads/2024/02/Honig-Vineyard-and-Winery-tasting-room-exterior-1200x739.jpg",
    "/winery-images/honig-3.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/MiwqsdwFAG8hADKr2rc-Eg/l.jpg",
-   "/winery-images/honig-2.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/4gZWUk8lRSkzSQO2KOQ7EA/l.jpg"
+   "/winery-images/honig-2.jpg"
   ],
   "lastRefreshedAt": null,
   "bookingUrl": "https://www.exploretock.com/honig",
@@ -230,7 +228,7 @@
   "region": "Sonoma County",
   "phone": "(707) 938-3031",
   "website": "https://www.larsonfamilywinery.com",
-  "imageUrl": "/winery-images/larson-2.jpg",
+  "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/f0/0a/dc/front-of-larson-family.jpg?w=1200&h=1200&s=1",
   "latitude": 38.255,
   "longitude": -122.435,
   "dogFriendly": true,
@@ -255,7 +253,6 @@
   "yelpUrl": "https://www.yelp.com/biz/larson-family-winery-sonoma",
   "featuredRank": null,
   "galleryImages": [
-   "/winery-images/larson-2.jpg",
    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/f0/0a/dc/front-of-larson-family.jpg?w=1200&h=1200&s=1",
    "https://beyondtheboardwalk.com/wp-content/uploads/2023/11/Beyond-The-Boardwalk-Larson-Family-Winery-001-1024x681.jpeg",
    "https://assets.simpleviewinc.com/simpleview/image/upload/c_fit,w_1024,h_683/crm/sonoma/larson-42_0E0C5937-BE96-44EE-81414293B9450E57_20cf4137-1e34-4e1a-b269f80094d2fcd6.jpg",
@@ -389,9 +386,7 @@
   "galleryImages": [
    "https://winecountry-media.s3.amazonaws.com/wp-content/uploads/sites/5/2022/11/20104314/Amista-Vineyards-Healdsburg-Sonoma-County-California-1320x880-1.jpg",
    "https://images.squarespace-cdn.com/content/v1/5d13dcd6f353bd0001178a72/a8415531-b738-4dda-a93a-c6fc8f78c4db/amista-vineyards.jpg",
-   "https://healdsburgisheavenly.com/wp-content/uploads/2020/01/amista-winery-vineyards-healdsburg.jpg",
-   "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/50/32/f4/amista-vineyards.jpg?w=900&h=500&s=1",
-   "/winery-images/amista-5.jpg"
+   "https://healdsburgisheavenly.com/wp-content/uploads/2020/01/amista-winery-vineyards-healdsburg.jpg"
   ],
   "lastRefreshedAt": null,
   "bookingUrl": "https://www.exploretock.com/amistavineyards",
@@ -478,8 +473,6 @@
   "featuredRank": null,
   "galleryImages": [
    "https://winecountry-media.s3.amazonaws.com/wp-content/uploads/sites/4/2017/01/19090058/Round-Pond-terrace-1320x880-1.jpg",
-   "https://winecountry-media.s3.amazonaws.com/wp-content/uploads/2021/09/25195504/Round-Pond-terrace-1320x880-1.jpg",
-   "https://winecountry-media.s3.amazonaws.com/wp-content/uploads/sites/4/2022/05/07221418/Round-Pond-Terrace-1320x880-1.jpg",
    "https://napagreen.org/wp-content/uploads/2025/04/rd-winery.jpg",
    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/58/d5/f6/caption.jpg?w=600&h=600&s=1"
   ],
@@ -496,7 +489,7 @@
   "region": "Sonoma County",
   "phone": "(707) 433-3579",
   "website": "https://www.seghesio.com",
-  "imageUrl": "/winery-images/seghesio-2.jpg",
+  "imageUrl": "https://winecountry-media.s3.amazonaws.com/18669-media-2-Slideshow-Seghesio-grove-1600x800.jpg",
   "latitude": 38.6089,
   "longitude": -122.8712,
   "dogFriendly": true,
@@ -521,8 +514,6 @@
   "yelpUrl": "https://www.yelp.com/biz/seghesio-family-vineyards-healdsburg-2",
   "featuredRank": null,
   "galleryImages": [
-   "/winery-images/seghesio-2.jpg",
-   "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/9c/9f/f8/caption.jpg?w=1200&h=700&s=1",
    "https://winecountry-media.s3.amazonaws.com/18669-media-2-Slideshow-Seghesio-grove-1600x800.jpg",
    "https://winecountry-media.s3.amazonaws.com/18663-media-6-Slideshow-Seghesio-tastingroom-1600x800.jpg",
    "https://bestwineries.com/wp-content/uploads/2025/04/Seghesio-Family-Vineyards-entrance-1024x1024.jpg"
@@ -790,8 +781,7 @@
    "https://www.bartholomewestate.com/wp-content/gallery/example/bartholomew_estate_manor_distance_vine_rows_clouds_02-1.jpg",
    "https://www.bartholomewestate.com/wp-content/gallery/example/bartholomewestate_home.jpg",
    "https://www.bartholomewestate.com/wp-content/gallery/example/bartholomew_winery_front_entrance.jpg",
-   "https://bestwineries.com/wp-content/uploads/2024/08/Bartholomew-Estate-Winery-exterior-1200x739.jpg",
-   "https://d1sve9khgp0cw0.cloudfront.net/wp-content/uploads/2025/04/Winery-Exterior_formerly-the-inmate-hospital_photo-credit-Courtesy-of-Bartholomew-Estate-Winery-1024x682.jpg"
+   "https://bestwineries.com/wp-content/uploads/2024/08/Bartholomew-Estate-Winery-exterior-1200x739.jpg"
   ],
   "lastRefreshedAt": null,
   "bookingUrl": "https://www.exploretock.com/bartholomewestatewinery",
@@ -895,7 +885,7 @@
   "region": "Sonoma County",
   "phone": "(707) 833-5501",
   "website": "https://www.kunde.com",
-  "imageUrl": "/winery-images/kunde-2.jpg",
+  "imageUrl": "https://d1sve9khgp0cw0.cloudfront.net/wp-content/uploads/2021/09/kunde-winery-mountain-top-tasting-courtesy-photo-1200x800.jpeg",
   "latitude": 38.4186,
   "longitude": -122.5429,
   "dogFriendly": true,
@@ -920,8 +910,6 @@
   "yelpUrl": "https://www.yelp.com/biz/kunde-family-winery-kenwood",
   "featuredRank": null,
   "galleryImages": [
-   "/winery-images/kunde-2.jpg",
-   "/winery-images/kunde-3.jpg",
    "https://d1sve9khgp0cw0.cloudfront.net/wp-content/uploads/2021/09/kunde-winery-mountain-top-tasting-courtesy-photo-1200x800.jpeg",
    "https://assets.simpleviewinc.com/simpleview/image/fetch/c_limit,h_1200,q_75,w_1200/https://assets.simpleviewinc.com/simpleview/image/upload/crm/sonomavalley/Kunde_Ext__TEP5108-600x450_836855C9-54CE-4DDA-9EA5613F30120985_76e54f13-ab04-45e6-a081ae3527dbe323.jpg",
    "https://cdn.californiawinetours.com/wp-content/uploads/2021/08/17170124/Kunde_Winery_Frt_Panorama-XL.jpg"
@@ -1186,10 +1174,8 @@
   "featuredRank": null,
   "galleryImages": [
    "https://bestwineries.com/wp-content/uploads/2023/10/St-Clair-Brown-Winery-and-Brewery-exterior-photo-credit-Emma-K-Morris-1200x739.jpg",
-   "https://d1sve9khgp0cw0.cloudfront.net/wp-content/uploads/2025/03/PhotoEmmaKMorris-3exposure5-1024x683.jpg",
    "https://winecountry-media.s3.amazonaws.com/17092-media-greenhousetastingroom_800x400.jpg",
-   "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/21/19/14/st-clair-brown-winery.jpg?w=1200&h=1200&s=1",
-   "/winery-images/st-clair-brown-5.jpg"
+   "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/21/19/14/st-clair-brown-winery.jpg?w=1200&h=1200&s=1"
   ],
   "lastRefreshedAt": null,
   "bookingUrl": "https://www.exploretock.com/stclairbrown",
@@ -1231,7 +1217,6 @@
   "galleryImages": [
    "https://www.pineridgevineyards.com/wp-content/uploads/2024/11/banner-visit-bg.webp",
    "https://s3.amazonaws.com/winecountry-media/wp-content/uploads/sites/4/2023/03/14191007/Pine-Ridge-Cave-Tasting-Experience-1320x880-1.jpg",
-   "/winery-images/pine-ridge-2.jpg",
    "https://bestwineries.com/wp-content/uploads/2023/05/Pine-Ridge-Vineyards-winery.jpg",
    "https://corkandjourney.com/wp-content/uploads/2023/10/Cave-Entrance.jpeg"
   ],
