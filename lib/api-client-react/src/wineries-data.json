@@ -8,7 +8,7 @@
   "region": "Napa Valley",
   "phone": "(707) 255-7700",
   "website": "https://www.trefethen.com",
-  "imageUrl": "https://images.squarespace-cdn.com/content/v1/58e28c9046c3c4185028c8ff/1503517281517-09CMI3XP33ZRULQFO90H/Trefethen_26_web.jpg",
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/58e28c9046c3c4185028c8ff/1503517307478-T2BH2G1K0R50RRU7PDY1/Trefethen_6_web.jpg",
   "latitude": 38.332,
   "longitude": -122.323,
   "dogFriendly": true,
@@ -34,11 +34,10 @@
   "yelpUrl": "https://www.yelp.com/biz/trefethen-family-vineyards-napa",
   "featuredRank": null,
   "galleryImages": [
-   "https://images.squarespace-cdn.com/content/v1/58e28c9046c3c4185028c8ff/1503517281517-09CMI3XP33ZRULQFO90H/Trefethen_26_web.jpg",
-   "https://www.trefethen.com/wp-content/uploads/2020/10/Trefethen_32.jpg",
-   "https://www.trefethen.com/wp-content/uploads/2020/07/5B-Winery-Pano.jpg",
    "https://images.squarespace-cdn.com/content/v1/58e28c9046c3c4185028c8ff/1503517307478-T2BH2G1K0R50RRU7PDY1/Trefethen_6_web.jpg",
-   "https://www.trefethen.com/wp-content/uploads/2020/09/Trefethen-Family-Vineyards-Napa-Valley-Winery.jpg"
+   "https://images.squarespace-cdn.com/content/v1/58e28c9046c3c4185028c8ff/1503517281517-09CMI3XP33ZRULQFO90H/Trefethen_26_web.jpg",
+   "https://www.trefethen.com/wp-content/uploads/2020/09/Trefethen-Family-Vineyards-Napa-Valley-Winery.jpg",
+   "https://www.trefethen.com/wp-content/uploads/2020/10/Trefethen_32.jpg"
   ],
   "lastRefreshedAt": null,
   "bookingUrl": "https://www.exploretock.com/trefethen",
@@ -53,7 +52,7 @@
   "region": "Yountville",
   "phone": "(707) 944-2892",
   "website": "https://www.chandon.com",
-  "imageUrl": "https://s3.amazonaws.com/winecountry-media/wp-content/uploads/sites/4/2019/01/14172334/blog-012219-yountville-pic2.jpg",
+  "imageUrl": "https://www.napavalleyjourneys.com/images/domaine-chandon-yountville-winery.jpg",
   "latitude": 38.4012,
   "longitude": -122.3634,
   "dogFriendly": true,
@@ -79,11 +78,10 @@
   "yelpUrl": "https://www.yelp.com/biz/chandon-yountville-3",
   "featuredRank": null,
   "galleryImages": [
-   "https://s3.amazonaws.com/winecountry-media/wp-content/uploads/sites/4/2019/01/14172334/blog-012219-yountville-pic2.jpg",
+   "https://www.napavalleyjourneys.com/images/domaine-chandon-yountville-winery.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/mqXkkaiWGyZHRN7uhSV7Ug/o.jpg",
    "https://images.squarespace-cdn.com/content/v1/5afe0e2fda02bc9b7936b6bd/1527639729689-RKH1R7ZMIQK8J1I5MQJA/Domaine+Chandon_3.jpg",
-   "https://dannymangin.com/wp-content/uploads/2021/10/Yountville-itinerary_37-Domaine-Chandon-entrance-1024x763.jpeg",
-   "https://californiathroughmylens.com/wp-content/uploads/2016/04/Domaine-Chandon-1.jpg",
-   "https://www.napavalleyjourneys.com/images/domaine-chandon-yountville-winery.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/TLx3GssKxUlMtdiypHVKwA/o.jpg"
   ],
   "lastRefreshedAt": null,
   "bookingUrl": "https://chandon.com/pages/reservations",
@@ -124,9 +122,9 @@
   "featuredRank": null,
   "galleryImages": [
    "https://www.gunbun.com/wp-content/uploads/2019/08/tasting-room-2048x1367.jpg",
-   "https://www.extranomical.com/wp-content/uploads/2022/11/Gundlach-Bundschu-Winery-min-1024x685.webp",
-   "https://cdn.californiawinetours.com/wp-content/uploads/2021/11/17170055/gunbun.jpg",
-   "https://www.gunbun.com/wp-content/uploads/2022/08/home-hero-6.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/4PnHcXA7b5DsQr2eu_v2pg/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/TVhXqzPOb_mLTNg6jLdllg/o.jpg",
+   "https://www.extranomical.com/wp-content/uploads/2022/11/Gundlach-Bundschu-Winery-min-1024x685.webp"
   ],
   "lastRefreshedAt": null,
   "bookingUrl": "https://www.exploretock.com/gundlachbundschu",
@@ -141,7 +139,7 @@
   "region": "Rutherford",
   "phone": "(707) 963-5618",
   "website": "https://www.honigwine.com",
-  "imageUrl": "https://bestwineries.com/wp-content/uploads/2024/02/Honig-Vineyard-and-Winery-tasting-room-exterior-1200x739.jpg",
+  "imageUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/97JEopFFkFqUencavkGWOg/o.jpg",
   "latitude": 38.462,
   "longitude": -122.419,
   "dogFriendly": true,
@@ -167,9 +165,10 @@
   "yelpUrl": "https://www.yelp.com/biz/honig-vineyard-and-winery-rutherford",
   "featuredRank": null,
   "galleryImages": [
-   "https://bestwineries.com/wp-content/uploads/2024/02/Honig-Vineyard-and-Winery-tasting-room-exterior-1200x739.jpg",
-   "/winery-images/honig-3.jpg",
-   "/winery-images/honig-2.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/97JEopFFkFqUencavkGWOg/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/fIh71rFAi0D0LHYTGhaxzg/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/Br2xGUA5Jrvf7AETd9b01w/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/X_gb5LqmOy0Hyvn4PxGyWg/o.jpg"
   ],
   "lastRefreshedAt": null,
   "bookingUrl": "https://www.exploretock.com/honig",
@@ -184,7 +183,7 @@
   "region": "Sonoma County",
   "phone": "(707) 833-5215",
   "website": "https://www.deerfieldranch.com",
-  "imageUrl": "https://www.carducciassociates.com/images/uploads/projects/_ansel_crops/DEERFIELD_RANCH_WINERY_31-1636-1656373321.jpg",
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/6466cc84fc33e50d83dd07d8/1684458707467-DHEQE964AWCLK1D5T9IY/WinemakingDRW.jpg",
   "latitude": 38.4145,
   "longitude": -122.5512,
   "dogFriendly": true,
@@ -209,11 +208,10 @@
   "yelpUrl": "https://www.yelp.com/biz/deerfield-ranch-winery-kenwood",
   "featuredRank": null,
   "galleryImages": [
-   "https://www.carducciassociates.com/images/uploads/projects/_ansel_crops/DEERFIELD_RANCH_WINERY_31-1636-1656373321.jpg",
    "https://images.squarespace-cdn.com/content/v1/6466cc84fc33e50d83dd07d8/1684458707467-DHEQE964AWCLK1D5T9IY/WinemakingDRW.jpg",
-   "https://images.squarespace-cdn.com/content/v1/6466cc84fc33e50d83dd07d8/1684458656245-V1QAT8JYVBN4PRPVWSPO/DRWCaveDoors.jpg?format=1000w",
-   "https://i0.wp.com/www.prioritywinepass.com/wp-content/uploads/2019/05/354231429.jpg?w=1100&ssl=1",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/t8kvS1d05Guk-MDveM-Mxg/l.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/PftRrfDwNnv-HJAAJKmM7g/o.jpg",
+   "https://www.carducciassociates.com/images/uploads/projects/_ansel_crops/DEERFIELD_RANCH_WINERY_31-1636-1656373321.jpg",
+   "https://images.squarespace-cdn.com/content/v1/6466cc84fc33e50d83dd07d8/1684458656245-V1QAT8JYVBN4PRPVWSPO/DRWCaveDoors.jpg?format=1000w"
   ],
   "lastRefreshedAt": null,
   "bookingUrl": "https://www.exploretock.com/deerfieldranchwinery",
@@ -254,9 +252,9 @@
   "featuredRank": null,
   "galleryImages": [
    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/f0/0a/dc/front-of-larson-family.jpg?w=1200&h=1200&s=1",
-   "https://beyondtheboardwalk.com/wp-content/uploads/2023/11/Beyond-The-Boardwalk-Larson-Family-Winery-001-1024x681.jpeg",
-   "https://assets.simpleviewinc.com/simpleview/image/upload/c_fit,w_1024,h_683/crm/sonoma/larson-42_0E0C5937-BE96-44EE-81414293B9450E57_20cf4137-1e34-4e1a-b269f80094d2fcd6.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/5GV-zhemMc2DleS4rWiYGw/l.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/5GV-zhemMc2DleS4rWiYGw/l.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/aZrC1cuMWl6nwvu3hBNWMA/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/F5ZpbIJS0TtD8MZ8uz-Duw/o.jpg"
   ],
   "lastRefreshedAt": null,
   "bookingUrl": "https://www.exploretock.com/larsonfamilywinery",
@@ -297,10 +295,9 @@
   "featuredRank": null,
   "galleryImages": [
    "https://www.muscardinicellars.com/wp-content/uploads/2024/02/MC.jpg",
-   "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/c2/aa/3f/muscardini-cellars-tasting.jpg?w=1200&h=-1&s=1",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/mrjsoijYx-JpYEb5mnfNwg/o.jpg",
    "https://onthewineroad.us/wp-content/uploads/2016/01/Muscardini-Tasting-room.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/z0D4lpguv7bKALWweZdYLQ/l.jpg",
-   "https://winecountry-media.s3.amazonaws.com/7768-media-MuscardiniCellars.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/etElh3QfKcSuh8CLMfMVBw/o.jpg"
   ],
   "lastRefreshedAt": null,
   "bookingUrl": "https://www.exploretock.com/muscardinicellars",
@@ -315,7 +312,7 @@
   "region": "Calistoga",
   "phone": "(707) 967-6272",
   "website": "https://www.castellodiamorosa.com",
-  "imageUrl": "https://www.travelandleisure.com/thmb/SotdCuOsIdbAa6F_gAqXA9LEEAo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/amorosa-castle-calistoga-ca-USCASTLES0122-15db112e25fa453ab500c581c50e1b47.jpg",
+  "imageUrl": "https://media.istockphoto.com/id/961605780/photo/castello-di-amorosa-napa-valley-california-winery-and-castle.jpg?s=612x612&w=0&k=20&c=N6jkXQwnftnJ5pa7Bejl-q6VvPriBylVWLhzUlF76Ps=",
   "latitude": 38.5712,
   "longitude": -122.5289,
   "dogFriendly": true,
@@ -341,10 +338,11 @@
   "yelpUrl": "https://www.yelp.com/biz/castello-di-amorosa-calistoga-5",
   "featuredRank": null,
   "galleryImages": [
-   "https://www.travelandleisure.com/thmb/SotdCuOsIdbAa6F_gAqXA9LEEAo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/amorosa-castle-calistoga-ca-USCASTLES0122-15db112e25fa453ab500c581c50e1b47.jpg",
-   "https://assets.simpleviewinc.com/simpleview/image/fetch/c_limit,h_1200,q_75,w_1200/https://assets.simpleviewinc.com/simpleview/image/upload/crm/napavalley/HR-Castle_Wide_Fall_Full-e0581a2d5056a36_87e85a2c-5056-a36a-081d37b817e97024.jpg",
    "https://media.istockphoto.com/id/961605780/photo/castello-di-amorosa-napa-valley-california-winery-and-castle.jpg?s=612x612&w=0&k=20&c=N6jkXQwnftnJ5pa7Bejl-q6VvPriBylVWLhzUlF76Ps=",
-   "https://angelaandrieux.com/wp-content/uploads/2012/05/castello-amorosa-napa-valley-castle-winery-entrance-chapel.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/OwC08OKo-r-MkArOukIQsw/o.jpg",
+   "https://angelaandrieux.com/wp-content/uploads/2012/05/castello-amorosa-napa-valley-castle-winery-entrance-chapel.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/R9GwOQxEDrLevmM3cQeXlA/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/XxFmuxr6CgE2XlkhtdmutA/o.jpg"
   ],
   "lastRefreshedAt": null,
   "bookingUrl": "https://www.exploretock.com/castellodiamorosa",
@@ -385,8 +383,10 @@
   "featuredRank": null,
   "galleryImages": [
    "https://winecountry-media.s3.amazonaws.com/wp-content/uploads/sites/5/2022/11/20104314/Amista-Vineyards-Healdsburg-Sonoma-County-California-1320x880-1.jpg",
-   "https://images.squarespace-cdn.com/content/v1/5d13dcd6f353bd0001178a72/a8415531-b738-4dda-a93a-c6fc8f78c4db/amista-vineyards.jpg",
-   "https://healdsburgisheavenly.com/wp-content/uploads/2020/01/amista-winery-vineyards-healdsburg.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/Fq-EqMYor7HdBD-1xL23jg/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/QUX5JbpUaYPl0yfbpRUtMg/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/Gl64MJJR4IVkPpSSMirW0Q/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/LMPQ5gQKr4dQYtb2DuVWnw/o.jpg"
   ],
   "lastRefreshedAt": null,
   "bookingUrl": "https://www.exploretock.com/amistavineyards",
@@ -401,7 +401,7 @@
   "region": "Calistoga",
   "phone": "(707) 942-2100",
   "website": "https://www.tamberbey.com",
-  "imageUrl": "https://tamberbey.com/wp-content/uploads/2023/07/DSC02007.jpg",
+  "imageUrl": "https://www.winetourism.com/files/2020/09/tamber-bey-vineyards-winery-1029x705.jpg",
   "latitude": 38.5789,
   "longitude": -122.5534,
   "dogFriendly": true,
@@ -427,11 +427,10 @@
   "yelpUrl": "https://www.yelp.com/biz/tamber-bey-vineyards-calistoga",
   "featuredRank": null,
   "galleryImages": [
-   "https://tamberbey.com/wp-content/uploads/2023/07/DSC02007.jpg",
-   "https://tamberbey.com/wp-content/uploads/2023/04/About-11-scaled.jpg",
-   "https://winecountry-media.s3.amazonaws.com/wp-content/uploads/sites/4/2021/04/11145829/WCM-Tamber-Bey-Experience-6-1320x880-1.jpg",
    "https://www.winetourism.com/files/2020/09/tamber-bey-vineyards-winery-1029x705.jpg",
-   "https://bestwineries.com/wp-content/uploads/2022/11/Tamber-Bey-Vineyards-Wine-and-Horses-1024x630.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/KGE3h1aZKWhC7lidQZj4Bg/o.jpg",
+   "https://winecountry-media.s3.amazonaws.com/wp-content/uploads/sites/4/2021/04/11145829/WCM-Tamber-Bey-Experience-6-1320x880-1.jpg",
+   "https://tamberbey.com/wp-content/uploads/2023/04/About-11-scaled.jpg"
   ],
   "lastRefreshedAt": null,
   "bookingUrl": "https://www.exploretock.com/tamberbeyvineyards",
@@ -446,7 +445,7 @@
   "region": "Rutherford",
   "phone": "(888) 302-2575",
   "website": "https://www.roundpond.com",
-  "imageUrl": "https://winecountry-media.s3.amazonaws.com/wp-content/uploads/sites/4/2017/01/19090058/Round-Pond-terrace-1320x880-1.jpg",
+  "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/58/d5/f6/caption.jpg?w=600&h=600&s=1",
   "latitude": 38.459,
   "longitude": -122.428,
   "dogFriendly": true,
@@ -472,9 +471,10 @@
   "yelpUrl": "https://www.yelp.com/biz/round-pond-estate-rutherford",
   "featuredRank": null,
   "galleryImages": [
-   "https://winecountry-media.s3.amazonaws.com/wp-content/uploads/sites/4/2017/01/19090058/Round-Pond-terrace-1320x880-1.jpg",
+   "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/58/d5/f6/caption.jpg?w=600&h=600&s=1",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/s0z8TBKs1AWDEKMMjZnnzA/o.jpg",
    "https://napagreen.org/wp-content/uploads/2025/04/rd-winery.jpg",
-   "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/58/d5/f6/caption.jpg?w=600&h=600&s=1"
+   "https://winecountry-media.s3.amazonaws.com/wp-content/uploads/sites/4/2017/01/19090058/Round-Pond-terrace-1320x880-1.jpg"
   ],
   "lastRefreshedAt": null,
   "bookingUrl": "https://www.exploretock.com/roundpondestate",
@@ -489,7 +489,7 @@
   "region": "Sonoma County",
   "phone": "(707) 433-3579",
   "website": "https://www.seghesio.com",
-  "imageUrl": "https://winecountry-media.s3.amazonaws.com/18669-media-2-Slideshow-Seghesio-grove-1600x800.jpg",
+  "imageUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/seEm2QeMMmRYSIUTxiAcyg/o.jpg",
   "latitude": 38.6089,
   "longitude": -122.8712,
   "dogFriendly": true,
@@ -514,9 +514,10 @@
   "yelpUrl": "https://www.yelp.com/biz/seghesio-family-vineyards-healdsburg-2",
   "featuredRank": null,
   "galleryImages": [
-   "https://winecountry-media.s3.amazonaws.com/18669-media-2-Slideshow-Seghesio-grove-1600x800.jpg",
-   "https://winecountry-media.s3.amazonaws.com/18663-media-6-Slideshow-Seghesio-tastingroom-1600x800.jpg",
-   "https://bestwineries.com/wp-content/uploads/2025/04/Seghesio-Family-Vineyards-entrance-1024x1024.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/seEm2QeMMmRYSIUTxiAcyg/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/_xiHdyraJfZPSWZw8ylUuQ/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/ORznnFQeMWsdTBmjfF9pMA/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/ltu_ij5_LtMYNrq4IgVrng/o.jpg"
   ],
   "lastRefreshedAt": null,
   "bookingUrl": "https://www.exploretock.com/seghesio",
@@ -531,7 +532,7 @@
   "region": "Los Carneros",
   "phone": "(707) 257-5782",
   "website": "https://www.etudewines.com",
-  "imageUrl": "https://www.etudewines.com/cdn/shop/files/ETU_Winery1_HR_1.jpg?v=1720476260&width=3840",
+  "imageUrl": "https://bestwineries.com/wp-content/uploads/2023/11/etude-winery-outdoor-seating-area-1024x630.jpg",
   "latitude": 38.2456,
   "longitude": -122.3678,
   "dogFriendly": true,
@@ -556,11 +557,10 @@
   "yelpUrl": "https://www.yelp.com/biz/etude-wines-napa",
   "featuredRank": null,
   "galleryImages": [
-   "https://www.etudewines.com/cdn/shop/files/ETU_Winery1_HR_1.jpg?v=1720476260&width=3840",
-   "https://www.etudewines.com/cdn/shop/files/i-xTgNRW7-X3.jpg?v=1702598782&width=1200",
-   "https://bestwineries.com/wp-content/uploads/2023/11/etude-winery-exterior-1024x630.jpg",
    "https://bestwineries.com/wp-content/uploads/2023/11/etude-winery-outdoor-seating-area-1024x630.jpg",
-   "https://marinmagazine.com/wp-content/uploads/2025/09/Etude-Winery-Building-1024x768.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/OuLqXLJ6EAkIGOeAspB46Q/o.jpg",
+   "https://www.etudewines.com/cdn/shop/files/ETU_Winery1_HR_1.jpg?v=1720476260&width=3840",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/J2Cjo5wzT0AC26II5ZfgmA/o.jpg"
   ],
   "lastRefreshedAt": null,
   "bookingUrl": "https://www.exploretock.com/etude",
@@ -602,10 +602,9 @@
   "featuredRank": null,
   "galleryImages": [
    "https://www.winewithpaige.com/wp-content/uploads/2021/08/Bouchaine-new-tasting-room.jpeg",
-   "https://bestwineries.com/wp-content/uploads/2023/04/Bouchaine-Vineyard-Garden-1024x630.jpg",
-   "https://bestwineries.com/wp-content/uploads/2023/04/Bouchaine-vineyards-exterior-aerial-600x369.jpg",
-   "https://bouchaine.com/wp-content/uploads/2024/10/Bouchaine_8-2-2-scaled.jpg",
-   "https://bouchaine.com/wp-content/uploads/2024/10/bouchaine-dusk-newcrop.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/LaP1Ndi1BefpNWBhl31WeQ/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/27uQGH6_TcS2O3CUCpMmug/o.jpg",
+   "https://bouchaine.com/wp-content/uploads/2024/10/Bouchaine_8-2-2-scaled.jpg"
   ],
   "lastRefreshedAt": null,
   "bookingUrl": "https://www.exploretock.com/bouchaine",
@@ -620,7 +619,7 @@
   "region": "Sonoma County",
   "phone": "(707) 687-5089",
   "website": null,
-  "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/3b/b8/63/photo1jpg.jpg?w=1400&h=800&s=1",
+  "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/b6/a3/48/exterior-of-the-tasting.jpg?w=1200&h=800&s=1",
   "latitude": 38.5456,
   "longitude": -122.8123,
   "dogFriendly": true,
@@ -646,11 +645,10 @@
   "yelpUrl": "https://www.yelp.com/biz/mutt-lynch-winery-windsor",
   "featuredRank": null,
   "galleryImages": [
-   "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/3b/b8/63/photo1jpg.jpg?w=1400&h=800&s=1",
    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/b6/a3/48/exterior-of-the-tasting.jpg?w=1200&h=800&s=1",
-   "https://we3travel.com/wp-content/uploads/2019/10/Mutt-Lynch-tasting.jpg",
-   "https://s.hdnux.com/photos/01/30/33/70/23182909/3/1200x0.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/87dykjPwYitejyl9TH7d3A/l.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/UTFFzbsOHuPel78RsWxTvQ/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/87dykjPwYitejyl9TH7d3A/l.jpg",
+   "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/3b/b8/63/photo1jpg.jpg?w=1400&h=800&s=1"
   ],
   "lastRefreshedAt": null,
   "bookingUrl": "https://www.muttlynchwinery.com/visit",
@@ -665,7 +663,7 @@
   "region": "St. Helena",
   "phone": "(707) 967-2626",
   "website": "https://www.hallwines.com",
-  "imageUrl": "https://www.napawineproject.com/wp-blog/wp-content/uploads/2013/10/Hall-Winery-Napa-Valley-1-1024x683.jpg",
+  "imageUrl": "https://cdn.prod.website-files.com/64c82edd724cd267a8038611/667c77e0514edd78438f3b66_HALL%20Wines%20St.%20Helena.jpg",
   "latitude": 38.4789,
   "longitude": -122.4098,
   "dogFriendly": true,
@@ -691,10 +689,10 @@
   "yelpUrl": "https://www.yelp.com/biz/hall-wines-saint-helena-2",
   "featuredRank": null,
   "galleryImages": [
-   "https://www.napawineproject.com/wp-blog/wp-content/uploads/2013/10/Hall-Winery-Napa-Valley-1-1024x683.jpg",
    "https://cdn.prod.website-files.com/64c82edd724cd267a8038611/667c77e0514edd78438f3b66_HALL%20Wines%20St.%20Helena.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/InQOpHqucTO2DwS0BuYylg/o.jpg",
    "https://winecountry-media.s3.amazonaws.com/7089-media-hallwines-slideshow2.jpg",
-   "https://californiatouristguide.com/wp-content/uploads/hall-wines-entry-sculpture.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/oS4FG-ZJNalzHZPO-2lwNQ/o.jpg"
   ],
   "lastRefreshedAt": null,
   "bookingUrl": "https://www.exploretock.com/hallwines",
@@ -735,10 +733,9 @@
   "featuredRank": null,
   "galleryImages": [
    "https://assets.simpleviewinc.com/simpleview/image/upload/c_fit,w_1024,h_683/crm/sonoma/tasting_rooms_wineries_BR_Cohn_Sonoma_Valley_Sonoma_County_0060-83d94ec85056a36_83d9515a-5056-a36a-07f8d6ef240e7a5e.jpg",
-   "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/40/aa/4b/caption.jpg?w=900&h=500&s=1",
-   "https://ksimonian.com/Blog/wp-content/uploads/2012/05/BR-Cohn-Winery-002.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/9nr0mNJ--KatjU7g-YXMVQ/o.jpg",
    "https://ksimonian.com/Blog/wp-content/uploads/2012/05/BR-Cohn-Winery-004.jpg",
-   "https://winecountry-media.s3.amazonaws.com/wp-content/uploads/sites/5/2015/12/b-r-cohn-winery-680.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/nTIVfEfUOGpqsDZXgcr3MA/o.jpg"
   ],
   "lastRefreshedAt": null,
   "bookingUrl": "https://www.exploretock.com/brcohn",
@@ -779,9 +776,9 @@
   "featuredRank": null,
   "galleryImages": [
    "https://www.bartholomewestate.com/wp-content/gallery/example/bartholomew_estate_manor_distance_vine_rows_clouds_02-1.jpg",
-   "https://www.bartholomewestate.com/wp-content/gallery/example/bartholomewestate_home.jpg",
-   "https://www.bartholomewestate.com/wp-content/gallery/example/bartholomew_winery_front_entrance.jpg",
-   "https://bestwineries.com/wp-content/uploads/2024/08/Bartholomew-Estate-Winery-exterior-1200x739.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/zAmnaJ4K18xkQl5YUPVSfg/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/SCBUwjaUCf6Od_64n2GUXQ/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/50xQiiz26oQwLSqobumV6Q/o.jpg"
   ],
   "lastRefreshedAt": null,
   "bookingUrl": "https://www.exploretock.com/bartholomewestatewinery",
@@ -796,7 +793,7 @@
   "region": "St. Helena",
   "phone": "(707) 967-2200",
   "website": "https://www.charleskrug.com",
-  "imageUrl": "https://visitcalistoga.com/wp-content/uploads/2024/05/charles-krug-e1645725447935.jpg",
+  "imageUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/kctUpDZshben3aOysIGPag/l.jpg",
   "latitude": 38.507,
   "longitude": -122.469,
   "dogFriendly": true,
@@ -821,11 +818,10 @@
   "yelpUrl": "https://www.yelp.com/biz/charles-krug-winery-st-helena",
   "featuredRank": null,
   "galleryImages": [
-   "https://visitcalistoga.com/wp-content/uploads/2024/05/charles-krug-e1645725447935.jpg",
-   "https://www.charleskrug.com/wp-content/uploads/2021/04/charles_krug_night.jpg",
-   "https://www.platypustours.com/wp-content/uploads/2021/05/Charles-Krug-Winery-Entrance-1080x675.jpg",
-   "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Charles_Krug_Winery%2C_2800_St._Helena_Hwy.%2C_St._Helena%2C_CA_10-16-2011_3-26-34_PM.JPG/960px-Charles_Krug_Winery%2C_2800_St._Helena_Hwy.%2C_St._Helena%2C_CA_10-16-2011_3-26-34_PM.JPG",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/kctUpDZshben3aOysIGPag/l.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/kctUpDZshben3aOysIGPag/l.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/Y80rhCj-mWaETq1xIAHRkQ/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/Zemx65jOULPOK9d6L-6bOg/o.jpg",
+   "https://visitcalistoga.com/wp-content/uploads/2024/05/charles-krug-e1645725447935.jpg"
   ],
   "lastRefreshedAt": null,
   "bookingUrl": "https://www.exploretock.com/charleskrugwinery",
@@ -869,8 +865,7 @@
    "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/napavalley/TresSabores_Harvest22-00987_9155017D-2E08-439B-9BB5595802C0C7A3_931485e5-4151-4b64-a8564a7fb3dbc468.jpg",
    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/7b/cf/84/caption.jpg?w=900&h=500&s=1",
    "https://images.ctfassets.net/zpx0hfp3jryq/6u4YyxDefO7lSeFrrmmgTL/fe8b2e4c270197c6ccdc3f33b83fc501/Tres-Sabores-Winery-St-Helena-USA.jpg?fm=jpg&fl=progressive",
-   "https://winecountry-media.s3.amazonaws.com/14770-media-800x400(3).jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/IsXKIK2gl_Anzpkpz954sg/l.jpg"
+   "https://winecountry-media.s3.amazonaws.com/14770-media-800x400(3).jpg"
   ],
   "lastRefreshedAt": null,
   "bookingUrl": "https://www.exploretock.com/tressabores",
@@ -885,7 +880,7 @@
   "region": "Sonoma County",
   "phone": "(707) 833-5501",
   "website": "https://www.kunde.com",
-  "imageUrl": "https://d1sve9khgp0cw0.cloudfront.net/wp-content/uploads/2021/09/kunde-winery-mountain-top-tasting-courtesy-photo-1200x800.jpeg",
+  "imageUrl": "https://assets.simpleviewinc.com/simpleview/image/fetch/c_limit,h_1200,q_75,w_1200/https://assets.simpleviewinc.com/simpleview/image/upload/crm/sonomavalley/Kunde_Ext__TEP5108-600x450_836855C9-54CE-4DDA-9EA5613F30120985_76e54f13-ab04-45e6-a081ae3527dbe323.jpg",
   "latitude": 38.4186,
   "longitude": -122.5429,
   "dogFriendly": true,
@@ -910,9 +905,10 @@
   "yelpUrl": "https://www.yelp.com/biz/kunde-family-winery-kenwood",
   "featuredRank": null,
   "galleryImages": [
-   "https://d1sve9khgp0cw0.cloudfront.net/wp-content/uploads/2021/09/kunde-winery-mountain-top-tasting-courtesy-photo-1200x800.jpeg",
    "https://assets.simpleviewinc.com/simpleview/image/fetch/c_limit,h_1200,q_75,w_1200/https://assets.simpleviewinc.com/simpleview/image/upload/crm/sonomavalley/Kunde_Ext__TEP5108-600x450_836855C9-54CE-4DDA-9EA5613F30120985_76e54f13-ab04-45e6-a081ae3527dbe323.jpg",
-   "https://cdn.californiawinetours.com/wp-content/uploads/2021/08/17170124/Kunde_Winery_Frt_Panorama-XL.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/ao5rDsvTjQPKORYrSdx1dw/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/KD4vS-lRORIO5Uvm0FVpXw/o.jpg",
+   "https://d1sve9khgp0cw0.cloudfront.net/wp-content/uploads/2021/09/kunde-winery-mountain-top-tasting-courtesy-photo-1200x800.jpeg"
   ],
   "lastRefreshedAt": null,
   "bookingUrl": "https://www.exploretock.com/kundefamilywinery",
@@ -927,7 +923,7 @@
   "region": "Yountville",
   "phone": "(707) 944-8523",
   "website": "https://www.jessupcellars.com",
-  "imageUrl": "https://jessupcellars.com/wp-content/uploads/2023/11/ART-GALLERY-TASTING-ROOM-IMAGE.jpg.webp",
+  "imageUrl": "https://yountville.com/wp-content/uploads/2019/12/19_Jessup_1920x1080-1080x675.jpg",
   "latitude": 38.4042,
   "longitude": -122.3623,
   "dogFriendly": true,
@@ -953,10 +949,9 @@
   "yelpUrl": "https://www.yelp.com/biz/jessup-cellars-yountville",
   "featuredRank": 3,
   "galleryImages": [
-   "https://jessupcellars.com/wp-content/uploads/2023/11/ART-GALLERY-TASTING-ROOM-IMAGE.jpg.webp",
    "https://yountville.com/wp-content/uploads/2019/12/19_Jessup_1920x1080-1080x675.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/rb7r9FtFFnxAD9pbe9SRzg/o.jpg",
    "https://winemaps.com/sites/default/files/styles/large/public/2019-10/JC-Bldg2_0.jpg?itok=b4JZuG8m",
-   "https://www.intowine.com/files/styles/large/public/JessupOutside.jpg",
    "https://californiawineryadvisor.com/wp-content/uploads/2015/04/jessup-cellars-front.jpg"
   ],
   "lastRefreshedAt": null,
@@ -998,10 +993,9 @@
   "featuredRank": null,
   "galleryImages": [
    "https://bestwineries.com/wp-content/uploads/2022/03/Winery-Photo-e1678397255298-1.jpg",
-   "https://assets.simpleviewinc.com/simpleview/image/upload/c_fit,w_1024,h_683/crm/sonoma/tasting_rooms_wineries_Lambert_Bridge_Sonoma_County_0010-210ac2b35056a36_210ac4eb-5056-a36a-07435fa5aeee5b93.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/UAahRs8aOpIo1jNqaEDNwQ/o.jpg",
    "https://s3-media0.fl.yelpcdn.com/bphoto/YjUHPhyh60xLAvFbxOwSfw/l.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/N1rN7kMzkFpkV6hYIIgqHQ/l.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/YCSwjZhJ5LorwLwzXwd8-Q/l.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/u3oO6wUDuG_4McXutExXNQ/o.jpg"
   ],
   "lastRefreshedAt": null,
   "bookingUrl": "https://www.exploretock.com/lambertbridgewinery",
@@ -1043,9 +1037,9 @@
   "featuredRank": null,
   "galleryImages": [
    "https://theluxuryreport.com/wp-content/uploads/2019/04/Red-Barn-in-mustard2.jpg",
-   "https://www.exoticwinetravel.com/wp-content/uploads/2023/05/Frogs-Leap-Winery-1200x667.png",
-   "/winery-images/frogs-leap-5.jpg",
-   "https://www.frogsleap.com/wp-content/uploads/2023/11/PhotoEmmaKMorris-1705-cropped-scaled.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/RQq4ptY7NduDXNYsgpLz4g/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/drWBiDVYQB5Obhal1xO-Yg/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/uigKDqT5pO92UuiS-he_aw/o.jpg"
   ],
   "lastRefreshedAt": null,
   "bookingUrl": "https://www.exploretock.com/frogsleap",
@@ -1060,7 +1054,7 @@
   "region": "Calistoga",
   "phone": "(707) 942-1329",
   "website": "https://www.tankgaragewinery.com",
-  "imageUrl": "https://res.cloudinary.com/htt8g4cd/images/f_auto,q_auto/v1730962975/wp/Tank_Garage_Winery_Pinball/Tank_Garage_Winery_Pinball.jpg?_i=AA",
+  "imageUrl": "https://phylonthego.com/wp-content/uploads/2021/06/2.-Tank_Garage_Winery_Exterior-700x461-1.jpg",
   "latitude": 38.5734,
   "longitude": -122.5701,
   "dogFriendly": true,
@@ -1085,10 +1079,9 @@
   "yelpUrl": "https://www.yelp.com/biz/tank-garage-winery-calistoga",
   "featuredRank": null,
   "galleryImages": [
-   "https://res.cloudinary.com/htt8g4cd/images/f_auto,q_auto/v1730962975/wp/Tank_Garage_Winery_Pinball/Tank_Garage_Winery_Pinball.jpg?_i=AA",
    "https://phylonthego.com/wp-content/uploads/2021/06/2.-Tank_Garage_Winery_Exterior-700x461-1.jpg",
-   "https://booknapavalley.com/wp-content/uploads/2019/10/tank-garage-winery-1.jpg",
-   "https://booknapavalley.com/wp-content/uploads/2019/10/tank-garage-winery-2.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/498DXAmzpRxMr-zEuURGuQ/o.jpg",
+   "https://res.cloudinary.com/htt8g4cd/images/f_auto,q_auto/v1730962975/wp/Tank_Garage_Winery_Pinball/Tank_Garage_Winery_Pinball.jpg?_i=AA",
    "https://booknapavalley.com/wp-content/uploads/2019/10/tank-garage-winery-featured.jpg"
   ],
   "lastRefreshedAt": null,
@@ -1104,7 +1097,7 @@
   "region": "St. Helena",
   "phone": "(707) 963-4949",
   "website": "https://www.pridewines.com",
-  "imageUrl": "https://blog.wineroutes.com/wp-content/uploads/2022/06/PMV-Napa_Sonoma-Arch-1.jpg",
+  "imageUrl": "https://armchairsommelier.com/wp-content/uploads/2022/03/pride-mountain-vineyards.jpeg",
   "latitude": 38.5197,
   "longitude": -122.5213,
   "dogFriendly": true,
@@ -1129,10 +1122,11 @@
   "yelpUrl": "https://www.yelp.com/biz/pride-mountain-vineyards-st-helena",
   "featuredRank": 2,
   "galleryImages": [
-   "https://blog.wineroutes.com/wp-content/uploads/2022/06/PMV-Napa_Sonoma-Arch-1.jpg",
    "https://armchairsommelier.com/wp-content/uploads/2022/03/pride-mountain-vineyards.jpeg",
-   "https://www.platypustours.com/wp-content/uploads/2021/06/Platypus-Wine-Tours-Pride-Mountain-Vineyards.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/KK_lFhl0wvvfEj-TVBGRDA/l.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/YcJ0ATKVoWRkgRsCOMsfUw/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/XTpABd9Z41ajjsB7Wb7CSg/o.jpg",
+   "https://blog.wineroutes.com/wp-content/uploads/2022/06/PMV-Napa_Sonoma-Arch-1.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/x5pI4PzFZSg-UuO-tHlV2w/o.jpg"
   ],
   "lastRefreshedAt": null,
   "bookingUrl": "https://www.exploretock.com/pridemountainvineyards",
@@ -1147,7 +1141,7 @@
   "region": "Napa Valley",
   "phone": "(707) 255-5591",
   "website": "https://www.stclairbrown.com",
-  "imageUrl": "https://bestwineries.com/wp-content/uploads/2023/10/St-Clair-Brown-Winery-and-Brewery-exterior-photo-credit-Emma-K-Morris-1200x739.jpg",
+  "imageUrl": "https://winecountry-media.s3.amazonaws.com/17092-media-greenhousetastingroom_800x400.jpg",
   "latitude": 38.327,
   "longitude": -122.296,
   "dogFriendly": true,
@@ -1173,9 +1167,10 @@
   "yelpUrl": "https://www.yelp.com/biz/st-clair-brown-winery-and-brewery-napa-2",
   "featuredRank": null,
   "galleryImages": [
-   "https://bestwineries.com/wp-content/uploads/2023/10/St-Clair-Brown-Winery-and-Brewery-exterior-photo-credit-Emma-K-Morris-1200x739.jpg",
    "https://winecountry-media.s3.amazonaws.com/17092-media-greenhousetastingroom_800x400.jpg",
-   "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/21/19/14/st-clair-brown-winery.jpg?w=1200&h=1200&s=1"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/5Qag_v94e9imybkrYE0tsw/o.jpg",
+   "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/21/19/14/st-clair-brown-winery.jpg?w=1200&h=1200&s=1",
+   "https://bestwineries.com/wp-content/uploads/2023/10/St-Clair-Brown-Winery-and-Brewery-exterior-photo-credit-Emma-K-Morris-1200x739.jpg"
   ],
   "lastRefreshedAt": null,
   "bookingUrl": "https://www.exploretock.com/stclairbrown",
@@ -1190,7 +1185,7 @@
   "region": "Napa Valley",
   "phone": "(800) 575-9777",
   "website": "https://www.pineridgevineyards.com",
-  "imageUrl": "https://www.pineridgevineyards.com/wp-content/uploads/2024/11/banner-visit-bg.webp",
+  "imageUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/Yz0ynDC7vkqbiLMa0YlL4g/o.jpg",
   "latitude": 38.4198,
   "longitude": -122.3689,
   "dogFriendly": true,
@@ -1215,10 +1210,10 @@
   "yelpUrl": "https://www.yelp.com/biz/pine-ridge-vineyards-napa",
   "featuredRank": null,
   "galleryImages": [
+   "https://s3-media0.fl.yelpcdn.com/bphoto/Yz0ynDC7vkqbiLMa0YlL4g/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/i4vUlEmWvSI45WcwNjNRFQ/o.jpg",
    "https://www.pineridgevineyards.com/wp-content/uploads/2024/11/banner-visit-bg.webp",
-   "https://s3.amazonaws.com/winecountry-media/wp-content/uploads/sites/4/2023/03/14191007/Pine-Ridge-Cave-Tasting-Experience-1320x880-1.jpg",
-   "https://bestwineries.com/wp-content/uploads/2023/05/Pine-Ridge-Vineyards-winery.jpg",
-   "https://corkandjourney.com/wp-content/uploads/2023/10/Cave-Entrance.jpeg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/QvdIZwQBJRW5OIMY4_xZYA/o.jpg"
   ],
   "lastRefreshedAt": null,
   "bookingUrl": "https://www.exploretock.com/pineridgevineyards",
@@ -1233,7 +1228,7 @@
   "region": "St. Helena",
   "phone": "(707) 963-5972",
   "website": "https://www.ehlersestate.com",
-  "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-o/1b/64/05/50/historic-barrel-room.jpg",
+  "imageUrl": "https://luxe-beat-mag.s3.amazonaws.com/wp-content/uploads/2025/04/historic-stone-winery-ehlers-estate-12-1200x800.jpeg",
   "latitude": 38.524,
   "longitude": -122.4816,
   "dogFriendly": true,
@@ -1262,11 +1257,11 @@
   "yelpUrl": "https://www.yelp.com/biz/ehlers-estate-st-helena",
   "featuredRank": 1,
   "galleryImages": [
-   "https://media-cdn.tripadvisor.com/media/photo-o/1b/64/05/50/historic-barrel-room.jpg",
-   "/ehlers-dogs.jpg",
    "https://luxe-beat-mag.s3.amazonaws.com/wp-content/uploads/2025/04/historic-stone-winery-ehlers-estate-12-1200x800.jpeg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/h0C8FSTdAw9dOL2eTELnYA/o.jpg",
+   "https://www.writtenpalette.com/wp-content/uploads/2022/12/Ehlers-Estate-Winery-and-Vineyard.jpg",
    "https://luxe-beat-mag.s3.amazonaws.com/wp-content/uploads/2025/04/opening-to-vineyard-ehlers-estate-11-1024x704.jpeg",
-   "https://www.writtenpalette.com/wp-content/uploads/2022/12/Ehlers-Estate-Winery-and-Vineyard.jpg"
+   "/ehlers-dogs.jpg"
   ],
   "lastRefreshedAt": null,
   "bookingUrl": "https://www.ehlersestate.com/visit/",
@@ -1281,7 +1276,7 @@
   "region": "Yountville",
   "phone": "(707) 944-8642",
   "website": "https://www.cliffledevineyards.com",
-  "imageUrl": "https://c8.alamy.com/comp/HGK9YJ/vineyard-viewed-from-cliff-lede-vineyards-yountville-stags-leap-district-HGK9YJ.jpg",
+  "imageUrl": "https://winecountry-media.s3.amazonaws.com/23289-media-CliffLede-Winery-Slideshow-1600x800.jpg",
   "latitude": 38.4023,
   "longitude": -122.3512,
   "dogFriendly": true,
@@ -1306,11 +1301,10 @@
   "yelpUrl": "https://www.yelp.com/biz/cliff-lede-vineyards-yountville",
   "featuredRank": null,
   "galleryImages": [
-   "https://c8.alamy.com/comp/HGK9YJ/vineyard-viewed-from-cliff-lede-vineyards-yountville-stags-leap-district-HGK9YJ.jpg",
-   "https://yountville.com/wp-content/uploads/2019/09/116_Cliff-Lede-Vineyards_3.jpg.webp",
-   "https://yountville.com/wp-content/uploads/2024/10/10-24-Classic-Rock-100-Point-Wines-and-Vineyard-Views-Yountvilles-Cliff-Lede-Vineyard-3.jpg.webp",
    "https://winecountry-media.s3.amazonaws.com/23289-media-CliffLede-Winery-Slideshow-1600x800.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/27z8F6x5uE6bOMt82pQpnA/l.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/8mghPT1xZZbUITEhrWODzA/o.jpg",
+   "https://c8.alamy.com/comp/HGK9YJ/vineyard-viewed-from-cliff-lede-vineyards-yountville-stags-leap-district-HGK9YJ.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/LmSuNzjx-3csfF6JJ9Ilnw/o.jpg"
   ],
   "lastRefreshedAt": null,
   "bookingUrl": "https://www.exploretock.com/clifflede",
@@ -1325,7 +1319,7 @@
   "region": "Sonoma County",
   "phone": "(888) 675-9463",
   "website": "https://www.stfranciswinery.com",
-  "imageUrl": "https://bestwineries.com/wp-content/uploads/2023/08/st-francis-winery-entrance-and-bell-tower-2-1200x739.jpg",
+  "imageUrl": "https://www.stfranciswinery.com/wp-content/uploads/2023/07/tower-4-1170x781.jpg",
   "latitude": 38.4312,
   "longitude": -122.5789,
   "dogFriendly": true,
@@ -1351,11 +1345,10 @@
   "yelpUrl": "https://www.yelp.com/biz/st-francis-winery-and-vineyards-santa-rosa",
   "featuredRank": null,
   "galleryImages": [
-   "https://bestwineries.com/wp-content/uploads/2023/08/st-francis-winery-entrance-and-bell-tower-2-1200x739.jpg",
    "https://www.stfranciswinery.com/wp-content/uploads/2023/07/tower-4-1170x781.jpg",
-   "https://cdn.californiawinetours.com/wp-content/uploads/2021/11/17170043/stfrancis.jpg",
-   "https://roadtrippingcalifornia.com/wp-content/uploads/2021/11/Saint-Francis-Winery-Tower.jpg",
-   "https://winecountry-media.s3.amazonaws.com/21604-media-SlideshowImage1-StFrancisWinery-Front-1200x600.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/P80_lzIjmB3o62sCGbp8ag/o.jpg",
+   "https://winecountry-media.s3.amazonaws.com/21604-media-SlideshowImage1-StFrancisWinery-Front-1200x600.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/qtN3XfI7yM9Z5p8AC1Ni6g/o.jpg"
   ],
   "lastRefreshedAt": null,
   "bookingUrl": "https://www.exploretock.com/stfranciswinery",
@@ -1396,10 +1389,10 @@
   "featuredRank": null,
   "galleryImages": [
    "https://www.aowinery.com/wp-content/uploads/2025/11/Alpha-Omega-Exterior_Credit-Alpha-Omega-1.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/kRAiHh-aR8HRTUUC07e5iw/o.jpg",
    "https://s3-media0.fl.yelpcdn.com/bphoto/Dn_5FJWG4ect1rVoMRnm0g/o.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/kQ451TLAD3-8P-ACSUv-ug/o.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/A3ah43FaMifspQmJVe8xfA/o.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/A3ah43FaMifspQmJVe8xfA/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/kRAiHh-aR8HRTUUC07e5iw/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/kQ451TLAD3-8P-ACSUv-ug/o.jpg"
   ],
   "lastRefreshedAt": "2026-10-19T15:30:00",
   "bookingUrl": null,
@@ -1440,8 +1433,8 @@
   "featuredRank": null,
   "galleryImages": [
    "https://s3-media0.fl.yelpcdn.com/bphoto/yD_quuavgEuMnN80vPEv0g/o.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/VDqdS5i67V2Yra_F8-Q-qQ/o.jpg",
-   "https://www.vsattui.com/wp-content/uploads/elementor/thumbs/Mercato-del-Gusto1-re7zv6dm83j20qwuc4qwi9ys3jv2e2o46tjsa4h8xo.webp"
+   "https://www.vsattui.com/wp-content/uploads/elementor/thumbs/Mercato-del-Gusto1-re7zv6dm83j20qwuc4qwi9ys3jv2e2o46tjsa4h8xo.webp",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/VDqdS5i67V2Yra_F8-Q-qQ/o.jpg"
   ],
   "lastRefreshedAt": "2026-10-19T15:30:00",
   "bookingUrl": null,
@@ -1456,7 +1449,7 @@
   "region": "St. Helena",
   "phone": "(707) 968-0625",
   "website": "https://www.cliffamily.com",
-  "imageUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/PGRFTvacQfxRowq6Ck3NHg/o.jpg",
+  "imageUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/mGQZvJ5oPUDc3-XVJItVJQ/o.jpg",
   "latitude": 38.500357,
   "longitude": -122.463997,
   "dogFriendly": true,
@@ -1482,8 +1475,8 @@
   "yelpUrl": "https://www.yelp.com/biz/clif-family-winery-st-helena",
   "featuredRank": null,
   "galleryImages": [
-   "https://s3-media0.fl.yelpcdn.com/bphoto/PGRFTvacQfxRowq6Ck3NHg/o.jpg",
    "https://s3-media0.fl.yelpcdn.com/bphoto/mGQZvJ5oPUDc3-XVJItVJQ/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/PGRFTvacQfxRowq6Ck3NHg/o.jpg",
    "https://s3-media0.fl.yelpcdn.com/bphoto/xVFlD3kDPW4wyiPh-xJj7g/o.jpg"
   ],
   "lastRefreshedAt": "2026-10-19T15:30:00",
@@ -1499,7 +1492,7 @@
   "region": "St. Helena",
   "phone": "(707) 963-5853",
   "website": "https://www.benesserevineyards.com",
-  "imageUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/hbBnzmFvw7W8CtcBn6UAfA/o.jpg",
+  "imageUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/9-rGu5NLhcQIgRLzIPIrXQ/o.jpg",
   "latitude": 38.55188,
   "longitude": -122.506209,
   "dogFriendly": true,
@@ -1524,10 +1517,10 @@
   "yelpUrl": "https://www.yelp.com/biz/benessere-vineyards-saint-helena",
   "featuredRank": null,
   "galleryImages": [
-   "https://s3-media0.fl.yelpcdn.com/bphoto/hbBnzmFvw7W8CtcBn6UAfA/o.jpg",
    "https://s3-media0.fl.yelpcdn.com/bphoto/9-rGu5NLhcQIgRLzIPIrXQ/o.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/3HbDdXMVPLiNTIsi1JABJQ/o.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/rFjR3zYb87n_2W9eABMhqA/o.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/hbBnzmFvw7W8CtcBn6UAfA/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/rFjR3zYb87n_2W9eABMhqA/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/3HbDdXMVPLiNTIsi1JABJQ/o.jpg"
   ],
   "lastRefreshedAt": "2026-10-19T15:30:00",
   "bookingUrl": null,
@@ -1542,7 +1535,7 @@
   "region": "Napa Valley",
   "phone": "(707) 657-7401",
   "website": "https://outerspace.wine",
-  "imageUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/X_2nwlz3Zkv1zk17RCr4PQ/o.jpg",
+  "imageUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/ABitA9mbanPP_irN3R1ejQ/o.jpg",
   "latitude": 38.297414,
   "longitude": -122.288272,
   "dogFriendly": true,
@@ -1567,10 +1560,10 @@
   "yelpUrl": "https://www.yelp.com/biz/outer-space-wines-napa",
   "featuredRank": null,
   "galleryImages": [
-   "https://s3-media0.fl.yelpcdn.com/bphoto/X_2nwlz3Zkv1zk17RCr4PQ/o.jpg",
    "https://s3-media0.fl.yelpcdn.com/bphoto/ABitA9mbanPP_irN3R1ejQ/o.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/UZVJ_cQH2AdKGl4R3DV-Qg/o.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/BhVrlGDKB1zclM0FGIY70g/o.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/X_2nwlz3Zkv1zk17RCr4PQ/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/BhVrlGDKB1zclM0FGIY70g/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/UZVJ_cQH2AdKGl4R3DV-Qg/o.jpg"
   ],
   "lastRefreshedAt": "2026-10-19T15:30:00",
   "bookingUrl": null,
@@ -1653,8 +1646,8 @@
   "featuredRank": null,
   "galleryImages": [
    "https://www.merryvale.com/wp-content/uploads/2025/11/history-2b-2200-1024x682.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/ZKOR_yKF1YNcLW8PDkR_Uw/o.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/I3ci7nLlZIGkqdaqi7SNXA/o.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/I3ci7nLlZIGkqdaqi7SNXA/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/ZKOR_yKF1YNcLW8PDkR_Uw/o.jpg"
   ],
   "lastRefreshedAt": "2026-10-19T15:30:00",
   "bookingUrl": null,
@@ -1669,7 +1662,7 @@
   "region": "Napa Valley",
   "phone": "(707) 227-3250",
   "website": "https://www.blackstallionwinery.com",
-  "imageUrl": "https://www.blackstallionwinery.com/wp-content/uploads/slider3/bsew__dsf3956_2000px.jpg",
+  "imageUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/GerT7dpA4O4V_8-3Q9i3cw/o.jpg",
   "latitude": 38.359845,
   "longitude": -122.290639,
   "dogFriendly": true,
@@ -1694,10 +1687,9 @@
   "yelpUrl": "https://www.yelp.com/biz/black-stallion-estate-winery-napa",
   "featuredRank": null,
   "galleryImages": [
+   "https://s3-media0.fl.yelpcdn.com/bphoto/GerT7dpA4O4V_8-3Q9i3cw/o.jpg",
    "https://www.blackstallionwinery.com/wp-content/uploads/slider3/bsew__dsf3956_2000px.jpg",
    "https://www.blackstallionwinery.com/wp-content/uploads/slider3/bsew__dsf4228.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/GerT7dpA4O4V_8-3Q9i3cw/o.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/Wo6g2NcTMJtEu8I1bnWIAQ/o.jpg",
    "https://s3-media0.fl.yelpcdn.com/bphoto/w6Y74CLOajDWUpPwjXQBug/o.jpg"
   ],
   "lastRefreshedAt": "2026-10-19T15:30:00",
@@ -1738,9 +1730,9 @@
   "featuredRank": null,
   "galleryImages": [
    "https://s3-media0.fl.yelpcdn.com/bphoto/nHfeB2yuUMUPVS4N0WguWA/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/aqNE9uqGtmh3u7nXIH3h1w/o.jpg",
    "https://s3-media0.fl.yelpcdn.com/bphoto/3epCjrpcbiYAwiUPK74BhQ/o.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/5tqHS2Xf_hgb3M9BrYjoNg/o.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/aqNE9uqGtmh3u7nXIH3h1w/o.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/5tqHS2Xf_hgb3M9BrYjoNg/o.jpg"
   ],
   "lastRefreshedAt": "2026-10-19T15:30:00",
   "bookingUrl": null,
@@ -1755,7 +1747,7 @@
   "region": "Sonoma County",
   "phone": "(707) 833-0218",
   "website": "https://www.landmarkwine.com",
-  "imageUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/1R0gLxGKWkAtsEzDge7Rig/o.jpg",
+  "imageUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/OwRISczm9VK_TNaG4IWccQ/o.jpg",
   "latitude": 38.42639,
   "longitude": -122.556389,
   "dogFriendly": true,
@@ -1779,11 +1771,10 @@
   "yelpUrl": "https://www.yelp.com/biz/landmark-vineyards-kenwood-estate-kenwood",
   "featuredRank": null,
   "galleryImages": [
+   "https://s3-media0.fl.yelpcdn.com/bphoto/OwRISczm9VK_TNaG4IWccQ/o.jpg",
    "https://s3-media0.fl.yelpcdn.com/bphoto/1R0gLxGKWkAtsEzDge7Rig/o.jpg",
    "https://www.landmarkwine.com/images/og_image_landmark.png",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/LAc-41sd7kU9W3ExRt0t3w/o.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/13fbh18xASDJWoTN1L8sjg/o.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/OwRISczm9VK_TNaG4IWccQ/o.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/LAc-41sd7kU9W3ExRt0t3w/o.jpg"
   ],
   "lastRefreshedAt": "2026-10-19T15:30:00",
   "bookingUrl": null,
@@ -1798,7 +1789,7 @@
   "region": "Sonoma County",
   "phone": "(707) 938-9401",
   "website": "https://www.mayofamilywinery.com",
-  "imageUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/DeWi4ixD6kvAd89fxXRqdw/o.jpg",
+  "imageUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/0yNkP6CgjmN9fS8ejwo2AQ/o.jpg",
   "latitude": 38.370459,
   "longitude": -122.516739,
   "dogFriendly": true,
@@ -1823,10 +1814,10 @@
   "yelpUrl": "https://www.yelp.com/biz/mayo-family-winery-glen-ellen",
   "featuredRank": null,
   "galleryImages": [
-   "https://s3-media0.fl.yelpcdn.com/bphoto/DeWi4ixD6kvAd89fxXRqdw/o.jpg",
    "https://s3-media0.fl.yelpcdn.com/bphoto/0yNkP6CgjmN9fS8ejwo2AQ/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/GFSMCNoD6MHLZ77W98hQUA/o.jpg",
    "https://s3-media0.fl.yelpcdn.com/bphoto/D0hAoPpT0xvW01IRSum-Mg/o.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/GFSMCNoD6MHLZ77W98hQUA/o.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/DeWi4ixD6kvAd89fxXRqdw/o.jpg"
   ],
   "lastRefreshedAt": "2026-10-19T15:30:00",
   "bookingUrl": null,
@@ -1868,8 +1859,8 @@
   "galleryImages": [
    "https://s3-media0.fl.yelpcdn.com/bphoto/Ykvd8DRjR6_fDDzy-EWunA/o.jpg",
    "https://s3-media0.fl.yelpcdn.com/bphoto/eveafW4Xo6mYvb2X0yRgxg/o.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/-Y77RVFH0dm4q9WRnLjCJA/o.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/0qzVfigUKyPwNBn2rBRPmw/o.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/0qzVfigUKyPwNBn2rBRPmw/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/-Y77RVFH0dm4q9WRnLjCJA/o.jpg"
   ],
   "lastRefreshedAt": "2026-10-19T15:30:00",
   "bookingUrl": null,
@@ -1910,9 +1901,9 @@
   "featuredRank": null,
   "galleryImages": [
    "https://s3-media0.fl.yelpcdn.com/bphoto/P09vnZYI6YJERCzhp_v8Xw/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/S2tALlUvvqWNWW_lVmT2Zw/o.jpg",
    "https://s3-media0.fl.yelpcdn.com/bphoto/jNQ0j-D-JTxYoz0MxnJ3mw/o.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/dz8vNjH2rXEbRMdevkxD5Q/o.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/S2tALlUvvqWNWW_lVmT2Zw/o.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/dz8vNjH2rXEbRMdevkxD5Q/o.jpg"
   ],
   "lastRefreshedAt": "2026-10-19T15:30:00",
   "bookingUrl": null,
@@ -1927,7 +1918,7 @@
   "region": "Dry Creek Valley",
   "phone": "(707) 433-4355",
   "website": "https://www.wilsonwinery.com",
-  "imageUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/Ie4FEGjSsFb2tErI_Vpyeg/o.jpg",
+  "imageUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/0mZ2cYewM_Ix_3Mc57p7Aw/o.jpg",
   "latitude": 38.639287,
   "longitude": -122.900896,
   "dogFriendly": true,
@@ -1952,10 +1943,10 @@
   "yelpUrl": "https://www.yelp.com/biz/wilson-winery-healdsburg",
   "featuredRank": null,
   "galleryImages": [
-   "https://s3-media0.fl.yelpcdn.com/bphoto/Ie4FEGjSsFb2tErI_Vpyeg/o.jpg",
    "https://s3-media0.fl.yelpcdn.com/bphoto/0mZ2cYewM_Ix_3Mc57p7Aw/o.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/KB4KEcqZesDa6IF4oakkOA/o.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/rZA9E_4klcp5Ug333-yf9g/o.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/Ie4FEGjSsFb2tErI_Vpyeg/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/rZA9E_4klcp5Ug333-yf9g/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/KB4KEcqZesDa6IF4oakkOA/o.jpg"
   ],
   "lastRefreshedAt": "2026-10-19T15:30:00",
   "bookingUrl": null,
@@ -1996,9 +1987,9 @@
   "featuredRank": null,
   "galleryImages": [
    "https://s3-media0.fl.yelpcdn.com/bphoto/1Wp-wGs6XjydHjbQ6Q0J8A/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/dJrir7lLesGSbFF7mgL83g/o.jpg",
    "https://s3-media0.fl.yelpcdn.com/bphoto/T2LP2xQdkBPh3quemNXWsw/o.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/nAKoO5Yq-WBG4AWlOgqC7g/o.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/dJrir7lLesGSbFF7mgL83g/o.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/nAKoO5Yq-WBG4AWlOgqC7g/o.jpg"
   ],
   "lastRefreshedAt": "2026-10-19T15:30:00",
   "bookingUrl": null,
@@ -2040,8 +2031,8 @@
   "galleryImages": [
    "https://s3-media0.fl.yelpcdn.com/bphoto/sMsKJ7saw8jeWICJOpXLWg/o.jpg",
    "https://s3-media0.fl.yelpcdn.com/bphoto/3cNHy1dxa-Wb62_4oUMU0w/o.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/RgNIXjASxXvF_oP7FpA-Gg/o.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/VWuSo2w_XKSiw-jzT8857Q/o.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/VWuSo2w_XKSiw-jzT8857Q/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/RgNIXjASxXvF_oP7FpA-Gg/o.jpg"
   ],
   "lastRefreshedAt": "2026-10-19T15:30:00",
   "bookingUrl": null,
@@ -2082,8 +2073,8 @@
   "featuredRank": null,
   "galleryImages": [
    "https://s3-media0.fl.yelpcdn.com/bphoto/tN6xQP6sNk_Bh-GGusP-Lw/o.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/oJ_piTZb22WMB40r8aWf_w/o.jpg",
    "https://s3-media0.fl.yelpcdn.com/bphoto/Yjw_D7Su7IHa5bEA1iAIXw/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/oJ_piTZb22WMB40r8aWf_w/o.jpg",
    "https://s3-media0.fl.yelpcdn.com/bphoto/G9-585LbhI4fKKwlW0l21w/o.jpg"
   ],
   "lastRefreshedAt": "2026-10-19T15:30:00",
@@ -2125,9 +2116,9 @@
   "featuredRank": null,
   "galleryImages": [
    "https://s3-media0.fl.yelpcdn.com/bphoto/8_pOqVxfaT1I9vceJ0b39A/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/ZiKjduH9-5U_tYDMLfL8jA/o.jpg",
    "https://s3-media0.fl.yelpcdn.com/bphoto/DS1FQz93tKgId-2oVvG6qg/o.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/5YZ7fH08ncbisx3pbnKuvA/o.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/ZiKjduH9-5U_tYDMLfL8jA/o.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/5YZ7fH08ncbisx3pbnKuvA/o.jpg"
   ],
   "lastRefreshedAt": "2026-10-19T15:30:00",
   "bookingUrl": null,
@@ -2168,9 +2159,9 @@
   "featuredRank": null,
   "galleryImages": [
    "https://s3-media0.fl.yelpcdn.com/bphoto/mfpUJL9aGplYT_l4YQsSBQ/o.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/pIpIlFhZWQI3aFjvkGsR5A/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/Wmd4IWn0mfVIE8opthVjzw/o.jpg",
    "https://s3-media0.fl.yelpcdn.com/bphoto/88YrBdMCUSqHbXUjTGZOtw/o.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/Wmd4IWn0mfVIE8opthVjzw/o.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/pIpIlFhZWQI3aFjvkGsR5A/o.jpg"
   ],
   "lastRefreshedAt": "2026-10-19T15:30:00",
   "bookingUrl": null,
@@ -2228,7 +2219,7 @@
   "region": "Sonoma County",
   "phone": "(707) 528-6464",
   "website": "https://www.matanzascreek.com",
-  "imageUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/ZZ6bmipdOY6dVuQM8YkB_Q/o.jpg",
+  "imageUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/Ou63RMD1xm34URFiNzHTrg/o.jpg",
   "latitude": 38.401909,
   "longitude": -122.628021,
   "dogFriendly": true,
@@ -2253,10 +2244,10 @@
   "yelpUrl": "https://www.yelp.com/biz/matanzas-creek-winery-santa-rosa-2",
   "featuredRank": null,
   "galleryImages": [
-   "https://s3-media0.fl.yelpcdn.com/bphoto/ZZ6bmipdOY6dVuQM8YkB_Q/o.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/EyT16Je-HxcXNEcvnfzP5A/o.jpg",
    "https://s3-media0.fl.yelpcdn.com/bphoto/Ou63RMD1xm34URFiNzHTrg/o.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/KGfi9s6rBAr96d7MemNykQ/o.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/KGfi9s6rBAr96d7MemNykQ/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/ZZ6bmipdOY6dVuQM8YkB_Q/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/EyT16Je-HxcXNEcvnfzP5A/o.jpg"
   ],
   "lastRefreshedAt": "2026-10-19T15:30:00",
   "bookingUrl": null,
@@ -2271,7 +2262,7 @@
   "region": "Sonoma County",
   "phone": "(707) 568-2455",
   "website": "https://www.ballettovineyards.com",
-  "imageUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/ggJdxqAQVg6LcRTm-f4OFw/o.jpg",
+  "imageUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/kbr53wPB_4I7EiemmvyS3A/o.jpg",
   "latitude": 38.419588,
   "longitude": -122.814303,
   "dogFriendly": true,
@@ -2296,10 +2287,10 @@
   "yelpUrl": "https://www.yelp.com/biz/balletto-vineyards-santa-rosa",
   "featuredRank": null,
   "galleryImages": [
-   "https://s3-media0.fl.yelpcdn.com/bphoto/ggJdxqAQVg6LcRTm-f4OFw/o.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/RaNo8bkjBCWVt3EPvBrA5Q/o.jpg",
    "https://s3-media0.fl.yelpcdn.com/bphoto/kbr53wPB_4I7EiemmvyS3A/o.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/TJXNUOdrHJbmEpPOXzzELQ/o.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/TJXNUOdrHJbmEpPOXzzELQ/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/ggJdxqAQVg6LcRTm-f4OFw/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/RaNo8bkjBCWVt3EPvBrA5Q/o.jpg"
   ],
   "lastRefreshedAt": "2026-10-19T15:30:00",
   "bookingUrl": null,
@@ -2314,7 +2305,7 @@
   "region": "Sonoma County",
   "phone": "(707) 857-5700",
   "website": "https://www.bricoleurvineyards.com",
-  "imageUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/yPOo9mPytIOWQD3zArn4ig/o.jpg",
+  "imageUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/xjk75MAsI9mUdX-FuCgpIw/o.jpg",
   "latitude": 38.524764,
   "longitude": -122.832145,
   "dogFriendly": true,
@@ -2339,10 +2330,10 @@
   "yelpUrl": "https://www.yelp.com/biz/bricoleur-vineyards-windsor",
   "featuredRank": null,
   "galleryImages": [
-   "https://s3-media0.fl.yelpcdn.com/bphoto/yPOo9mPytIOWQD3zArn4ig/o.jpg",
    "https://s3-media0.fl.yelpcdn.com/bphoto/xjk75MAsI9mUdX-FuCgpIw/o.jpg",
+   "https://s3-media0.fl.yelpcdn.com/bphoto/S15Aig6i9rPPjPc2vC5shg/o.jpg",
    "https://s3-media0.fl.yelpcdn.com/bphoto/skrMP8xsO-Pb6TGt6_LFNA/o.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/S15Aig6i9rPPjPc2vC5shg/o.jpg"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/yPOo9mPytIOWQD3zArn4ig/o.jpg"
   ],
   "lastRefreshedAt": "2026-10-19T15:30:00",
   "bookingUrl": null,
@@ -2357,7 +2348,7 @@
   "region": "Sonoma County",
   "phone": "(800) 346-1627",
   "website": "https://www.martinelliwinery.com",
-  "imageUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/It6TkrSOBTDPogp2KwccSg/o.jpg",
+  "imageUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/0-5UcnceH2bY-YkoN66q3g/o.jpg",
   "latitude": 38.487858,
   "longitude": -122.808343,
   "dogFriendly": true,
@@ -2381,9 +2372,9 @@
   "yelpUrl": "https://www.yelp.com/biz/martinelli-winery-and-vineyards-windsor",
   "featuredRank": null,
   "galleryImages": [
+   "https://s3-media0.fl.yelpcdn.com/bphoto/0-5UcnceH2bY-YkoN66q3g/o.jpg",
    "https://s3-media0.fl.yelpcdn.com/bphoto/It6TkrSOBTDPogp2KwccSg/o.jpg",
    "https://s3-media0.fl.yelpcdn.com/bphoto/1_PV4lOfF1UKgqUtQNmDKg/o.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/0-5UcnceH2bY-YkoN66q3g/o.jpg",
    "https://s3-media0.fl.yelpcdn.com/bphoto/JrBsDQ3uYkwf8gZAXXYrPA/o.jpg"
   ],
   "lastRefreshedAt": "2026-10-19T15:30:00",
@@ -2399,7 +2390,7 @@
   "region": "Sonoma County",
   "phone": "(707) 823-2049",
   "website": "https://www.taftstreetwinery.com",
-  "imageUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/XuiL22ZzIsp3ICxObztzUw/o.jpg",
+  "imageUrl": "https://s3-media0.fl.yelpcdn.com/bphoto/r4DqRFoFCTMarZn6D4N_IQ/o.jpg",
   "latitude": 38.424173,
   "longitude": -122.858787,
   "dogFriendly": true,
@@ -2424,9 +2415,9 @@
   "yelpUrl": "https://www.yelp.com/biz/taft-street-winery-sebastopol-2",
   "featuredRank": null,
   "galleryImages": [
+   "https://s3-media0.fl.yelpcdn.com/bphoto/r4DqRFoFCTMarZn6D4N_IQ/o.jpg",
    "https://s3-media0.fl.yelpcdn.com/bphoto/XuiL22ZzIsp3ICxObztzUw/o.jpg",
    "https://s3-media0.fl.yelpcdn.com/bphoto/iEYLeyVk5JgA9QCVVzBWGg/o.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/r4DqRFoFCTMarZn6D4N_IQ/o.jpg",
    "https://s3-media0.fl.yelpcdn.com/bphoto/J2G701XCMdGsLcUeqnzLKQ/o.jpg"
   ],
   "lastRefreshedAt": "2026-10-19T15:30:00",
