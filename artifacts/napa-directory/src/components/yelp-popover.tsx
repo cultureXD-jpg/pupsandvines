@@ -100,6 +100,35 @@ function RatingRow({
   );
 }
 
+function LinkRow({
+  url,
+  color,
+  badge,
+  size,
+}: {
+  url: string;
+  color: string;
+  badge: string;
+  size: "sm" | "lg";
+}) {
+  const textClass = size === "lg" ? "text-base" : "text-sm";
+  const handleClick = (e: React.MouseEvent) => {
+    e.stopPropagation();
+    e.preventDefault();
+    window.open(url, "_blank", "noopener,noreferrer");
+  };
+  return (
+    <button
+      type="button"
+      onClick={handleClick}
+      className={`inline-flex items-center gap-1.5 ${textClass} font-semibold rounded-lg px-2 py-0.5 -mx-2 transition-opacity hover:opacity-80 cursor-pointer`}
+    >
+      <span className="font-normal text-muted-foreground">Read reviews on</span>
+      <PlatformBadge label={badge} color={color} />
+    </button>
+  );
+}
+
 export function YelpPopover({
   yelpUrl,
   rating,
@@ -119,7 +148,10 @@ export function YelpPopover({
         badge="yelp"
         size={size}
       />
-      {taData && (
+      {taData && taData.rating == null && (
+        <LinkRow url={taData.url} color={TA_GREEN} badge="tripadvisor" size={size} />
+      )}
+      {taData && taData.rating != null && (
         <RatingRow
           rating={taData.rating}
           reviewCount={taData.reviewCount}

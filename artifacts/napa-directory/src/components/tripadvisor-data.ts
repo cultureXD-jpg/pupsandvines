@@ -1,7 +1,8 @@
 export interface TAWineryData {
   url: string;
-  rating: number;
-  reviewCount: number;
+  /** Leave rating/reviewCount out when we haven't confirmed them; the site then shows a plain "Tripadvisor reviews" link. */
+  rating?: number;
+  reviewCount?: number;
 }
 
 export const TRIPADVISOR_DATA: Record<string, TAWineryData> = {
