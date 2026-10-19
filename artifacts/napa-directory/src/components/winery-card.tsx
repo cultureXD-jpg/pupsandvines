@@ -18,7 +18,8 @@ function getDogPolicyBadge(winery: Winery): { label: string; color: string } {
   if (lower.includes("off-leash") || lower.includes("off leash")) {
     return { label: "Off-Leash Park", color: "bg-green-100 text-green-800 border-green-200" };
   }
-  if (lower.includes("indoors") || lower.includes("tasting room") || lower.includes("inside")) {
+  const outdoorOnly = /not (allowed )?(inside|indoors|in the)|outdoor (spaces |areas )?only|outdoors only|only service animals/.test(lower);
+  if (!outdoorOnly && (lower.includes("indoors") || lower.includes("tasting room") || lower.includes("inside"))) {
     return { label: "Dogs Inside", color: "bg-blue-100 text-blue-800 border-blue-200" };
   }
   if (lower.includes("pup menu") || lower.includes("yappy") || lower.includes("events")) {
