@@ -619,7 +619,7 @@
   "region": "Sonoma County",
   "phone": "(707) 687-5089",
   "website": null,
-  "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/b6/a3/48/exterior-of-the-tasting.jpg?w=1200&h=800&s=1",
+  "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/3b/b8/63/photo1jpg.jpg?w=1400&h=800&s=1",
   "latitude": 38.5456,
   "longitude": -122.8123,
   "dogFriendly": true,
@@ -645,10 +645,9 @@
   "yelpUrl": "https://www.yelp.com/biz/mutt-lynch-winery-windsor",
   "featuredRank": null,
   "galleryImages": [
-   "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/b6/a3/48/exterior-of-the-tasting.jpg?w=1200&h=800&s=1",
+   "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/3b/b8/63/photo1jpg.jpg?w=1400&h=800&s=1",
    "https://s3-media0.fl.yelpcdn.com/bphoto/UTFFzbsOHuPel78RsWxTvQ/o.jpg",
-   "https://s3-media0.fl.yelpcdn.com/bphoto/87dykjPwYitejyl9TH7d3A/l.jpg",
-   "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/3b/b8/63/photo1jpg.jpg?w=1400&h=800&s=1"
+   "https://s3-media0.fl.yelpcdn.com/bphoto/87dykjPwYitejyl9TH7d3A/l.jpg"
   ],
   "lastRefreshedAt": null,
   "bookingUrl": "https://www.muttlynchwinery.com/visit",
