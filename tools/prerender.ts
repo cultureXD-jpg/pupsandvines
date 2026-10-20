@@ -4,8 +4,6 @@
 import fs from "node:fs";
 import path from "node:path";
 import {
-  ARTICLE_META,
-  getSeoForBlogPost,
   getSeoForStaticRoute,
   getSeoForWinery,
   injectSeoIntoHtml,
@@ -22,14 +20,10 @@ function write(route: string, html: string) {
 }
 
 let count = 0;
-for (const route of ["/", "/directory", "/about", "/terms", "/privacy", "/map", "/shop", "/blog"]) {
+for (const route of ["/", "/directory", "/about", "/terms", "/privacy", "/map", "/shop"] ) {
   const seo = getSeoForStaticRoute(route);
   write(route, seo ? injectSeoIntoHtml(template, seo) : template);
   count++;
-}
-for (const a of ARTICLE_META) {
-  const seo = getSeoForBlogPost(a.slug);
-  if (seo) { write(`/blog/${a.slug}`, injectSeoIntoHtml(template, seo)); count++; }
 }
 for (const w of wineries) {
   const seo = getSeoForWinery(w);

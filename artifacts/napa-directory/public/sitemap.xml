@@ -18,11 +18,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pupsandvines.com/blog</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://pupsandvines.com/about</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -44,61 +39,6 @@
   </url>
 
   <!-- Blog posts -->
-  <url>
-    <loc>https://pupsandvines.com/blog/visit-napa-valley-pet-friendly-guide</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://pupsandvines.com/blog/halo-collar-wine-country-dog-safety</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://pupsandvines.com/blog/what-to-know-before-bringing-your-dog-wine-tasting</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://pupsandvines.com/blog/best-dog-friendly-wineries-napa-valley</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://pupsandvines.com/blog/dog-etiquette-at-wineries</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://pupsandvines.com/blog/best-time-to-visit-wine-country-with-your-dog</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://pupsandvines.com/blog/dog-friendly-wineries-sonoma-county</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://pupsandvines.com/blog/how-to-plan-a-dog-friendly-weekend-wine-country</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://pupsandvines.com/blog/what-to-pack-winery-day-with-dog</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://pupsandvines.com/blog/off-leash-winery-experiences-wine-country</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://pupsandvines.com/blog/winery-dogs-napa-sonoma</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
 
   <!-- Winery listings -->
   <url>

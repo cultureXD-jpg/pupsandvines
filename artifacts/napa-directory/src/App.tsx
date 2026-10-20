@@ -14,8 +14,6 @@ import Terms from "@/pages/terms";
 import Privacy from "@/pages/privacy";
 import MapPage from "@/pages/map";
 import Shop from "@/pages/shop";
-import Blog from "@/pages/blog";
-import BlogPost from "@/pages/blog-post";
 import NotFound from "@/pages/not-found";
 
 const queryClient = new QueryClient({
@@ -73,8 +71,6 @@ function Router() {
             <Route path="/privacy" component={Privacy} />
             <Route path="/map" component={MapPage} />
             <Route path="/shop" component={Shop} />
-            <Route path="/blog" component={Blog} />
-            <Route path="/blog/:slug" component={BlogPost} />
             <Route component={NotFound} />
           </Switch>
         </PageTransition>

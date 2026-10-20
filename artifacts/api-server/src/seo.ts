@@ -179,7 +179,7 @@ const STATIC_BODY_HTML: Record<string, string> = {
       <p>Every winery in our directory is verified dog-friendly. We track dog policies, on-leash and off-leash areas, water stations, pup menus, and winery dogs. Before you pack up the car and the pup, we've done the research for you.</p>
       <h2>Our Mission</h2>
       <p>To make dog-friendly wine country travel easy, reliable, and genuinely fun — for you and your dog.</p>
-      <p><a href="/directory">Browse the directory</a> or <a href="/blog">read our guides</a>.</p>
+      <p><a href="/directory">Browse the directory</a>.</p>
     </main>`,
 
   "/map": `
@@ -190,34 +190,13 @@ const STATIC_BODY_HTML: Record<string, string> = {
       <p><a href="/directory">Browse the full directory</a> for filters and detailed listings.</p>
     </main>`,
 
-  "/blog": `
-    <main>
-      <h1>Wine Country with Your Dog — Tips &amp; Guides</h1>
-      <p>Guides, tips, and stories for dog owners exploring Napa Valley and Sonoma County wine country. Everything from what to pack to how to plan a full dog-friendly weekend.</p>
-      <nav aria-label="Article categories">
-        <ul>
-          <li>Tips &amp; Guides</li>
-          <li>Planning</li>
-          <li>Gear &amp; Accessories</li>
-          <li>Napa Valley</li>
-          <li>Sonoma County</li>
-          <li>Stories</li>
-        </ul>
-      </nav>
-      <section>
-        <h2>Recent Articles</h2>
-        <ul>
-          ${ARTICLE_META.map((a) => `<li><a href="/blog/${escapeHtml(a.slug)}">${escapeHtml(a.title)}</a> — ${escapeHtml(a.excerpt)}</li>`).join("\n          ")}
-        </ul>
-      </section>
-    </main>`,
 
   "/shop": `
     <main>
       <h1>Shop — Wine Dogs Books &amp; Gifts for Dog Lovers</h1>
       <p>Curated wine country books and gifts for dog lovers, including the Wine Dogs California series — stunning hardcovers celebrating winery dogs across Napa Valley and Sonoma County.</p>
       <p>These books are published by Wine Dogs, an independent publisher dedicated to celebrating the dogs of wine country worldwide.</p>
-      <p><a href="/directory">Browse the winery directory</a> or <a href="/blog">read our guides</a>.</p>
+      <p><a href="/directory">Browse the winery directory</a>.</p>
     </main>`,
 
   "/terms": `
@@ -273,14 +252,6 @@ const STATIC_SEO: Record<string, StaticSeoPartial> = {
     description: "Explore an interactive map of verified dog-friendly wineries across Napa Valley and Sonoma County. Click any pin to see details and directions.",
     canonical: `${BASE_URL}/map`,
     ogUrl: `${BASE_URL}/map`,
-    ogType: "website",
-    robots: "index, follow",
-  },
-  "/blog": {
-    title: `Wine Country with Your Dog — Tips & Guides | ${SITE_NAME}`,
-    description: "Guides, tips, and stories for dog owners exploring Napa Valley and Sonoma County wine country. Etiquette, gear, planning, and more.",
-    canonical: `${BASE_URL}/blog`,
-    ogUrl: `${BASE_URL}/blog`,
     ogType: "website",
     robots: "index, follow",
   },
